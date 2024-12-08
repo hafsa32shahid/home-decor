@@ -1,0 +1,2199 @@
+[
+    {
+        "id": 1,
+        "name": "Huco Sofa",
+        "price": 29.99,
+        "image": "../../public/gallery/s1.png",
+        "description": "Upgrade your living room with our luxurious sofa sets, designed to offer both comfort and style. Each set is crafted with premium materials, providing a perfect balance of durability and elegance. Whether you're entertaining guests or enjoying a cozy evening at home, our sofa sets offer ample seating and plush cushioning for ultimate relaxation.\n\nAvailable in a variety of designs and sizes, these sofa sets complement any décor, from contemporary to classic.\n\nFeatures:\nPremium Upholstery: Made from high-quality fabric, leather, or velvet for a soft, stylish finish.\nDurable Frame: Built with a sturdy wooden or metal frame to ensure long-lasting support.\nComfortable Seating: Plush cushions and ergonomic design provide superior comfort for everyday use.\nVariety of Sizes: Choose from 2-piece, 3-piece, or sectional sofa sets to fit your space perfectly.\nEasy Maintenance: Removable cushion covers for easy cleaning and care.\n\nTransform your living space with our elegant sofa sets, perfect for creating a cozy, stylish environment in any home.",
+        "category": "sofas and couches",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+        
+    },
+    {
+        "id": 2,
+        "name": "Auura Sofa",
+        "price": 29.99,
+        "image": "../../public/gallery/s2.png",
+        "description": "Upgrade your living room with our luxurious sofa sets, designed to offer both comfort and style. Each set is crafted with premium materials, providing a perfect balance of durability and elegance. Whether you're entertaining guests or enjoying a cozy evening at home, our sofa sets offer ample seating and plush cushioning for ultimate relaxation.\n\nAvailable in a variety of designs and sizes, these sofa sets complement any décor, from contemporary to classic.\n\nFeatures:\nPremium Upholstery: Made from high-quality fabric, leather, or velvet for a soft, stylish finish.\nDurable Frame: Built with a sturdy wooden or metal frame to ensure long-lasting support.\nComfortable Seating: Plush cushions and ergonomic design provide superior comfort for everyday use.\nVariety of Sizes: Choose from 2-piece, 3-piece, or sectional sofa sets to fit your space perfectly.\nEasy Maintenance: Removable cushion covers for easy cleaning and care.\n\nTransform your living space with our elegant sofa sets, perfect for creating a cozy, stylish environment in any home.",
+        "category": "sofas and couches",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 3,
+        "name": "Lobe Sofa",
+        "price": 49.99,
+        "image": "../../public/gallery/s9.jpg",
+        "description": "Upgrade your living room with our luxurious sofa sets, designed to offer both comfort and style. Each set is crafted with premium materials, providing a perfect balance of durability and elegance. Whether you're entertaining guests or enjoying a cozy evening at home, our sofa sets offer ample seating and plush cushioning for ultimate relaxation.\n\nAvailable in a variety of designs and sizes, these sofa sets complement any décor, from contemporary to classic.\n\nFeatures:\nPremium Upholstery: Made from high-quality fabric, leather, or velvet for a soft, stylish finish.\nDurable Frame: Built with a sturdy wooden or metal frame to ensure long-lasting support.\nComfortable Seating: Plush cushions and ergonomic design provide superior comfort for everyday use.\nVariety of Sizes: Choose from 2-piece, 3-piece, or sectional sofa sets to fit your space perfectly.\nEasy Maintenance: Removable cushion covers for easy cleaning and care.\n\nTransform your living space with our elegant sofa sets, perfect for creating a cozy, stylish environment in any home.",
+        "category": "sofas and couches",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 4,
+        "name": "Retina",
+        "price": 29.99,
+        "image": "../../public/gallery/s3.png",
+        "description": "Upgrade your living room with our luxurious sofa sets, designed to offer both comfort and style. Each set is crafted with premium materials, providing a perfect balance of durability and elegance. Whether you're entertaining guests or enjoying a cozy evening at home, our sofa sets offer ample seating and plush cushioning for ultimate relaxation.\n\nAvailable in a variety of designs and sizes, these sofa sets complement any décor, from contemporary to classic.\n\nFeatures:\nPremium Upholstery: Made from high-quality fabric, leather, or velvet for a soft, stylish finish.\nDurable Frame: Built with a sturdy wooden or metal frame to ensure long-lasting support.\nComfortable Seating: Plush cushions and ergonomic design provide superior comfort for everyday use.\nVariety of Sizes: Choose from 2-piece, 3-piece, or sectional sofa sets to fit your space perfectly.\nEasy Maintenance: Removable cushion covers for easy cleaning and care.\n\nTransform your living space with our elegant sofa sets, perfect for creating a cozy, stylish environment in any home.",
+        "category": "sofas and couches",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 5,
+        "name": "Lily sofa",
+        "price": 39.99,
+        "image": "../../public/gallery/s4.png",
+        "description": "Upgrade your living room with our luxurious sofa sets, designed to offer both comfort and style. Each set is crafted with premium materials, providing a perfect balance of durability and elegance. Whether you're entertaining guests or enjoying a cozy evening at home, our sofa sets offer ample seating and plush cushioning for ultimate relaxation.\n\nAvailable in a variety of designs and sizes, these sofa sets complement any décor, from contemporary to classic.\n\nFeatures:\nPremium Upholstery: Made from high-quality fabric, leather, or velvet for a soft, stylish finish.\nDurable Frame: Built with a sturdy wooden or metal frame to ensure long-lasting support.\nComfortable Seating: Plush cushions and ergonomic design provide superior comfort for everyday use.\nVariety of Sizes: Choose from 2-piece, 3-piece, or sectional sofa sets to fit your space perfectly.\nEasy Maintenance: Removable cushion covers for easy cleaning and care.\n\nTransform your living space with our elegant sofa sets, perfect for creating a cozy, stylish environment in any home.",
+        "category": "sofas and couches",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 6,
+        "name": "Pixy Sofa",
+        "price": 49.99,
+        "image": "../../public/gallery/s5.png",
+        "description": "Upgrade your living room with our luxurious sofa sets, designed to offer both comfort and style. Each set is crafted with premium materials, providing a perfect balance of durability and elegance. Whether you're entertaining guests or enjoying a cozy evening at home, our sofa sets offer ample seating and plush cushioning for ultimate relaxation.\n\nAvailable in a variety of designs and sizes, these sofa sets complement any décor, from contemporary to classic.\n\nFeatures:\nPremium Upholstery: Made from high-quality fabric, leather, or velvet for a soft, stylish finish.\nDurable Frame: Built with a sturdy wooden or metal frame to ensure long-lasting support.\nComfortable Seating: Plush cushions and ergonomic design provide superior comfort for everyday use.\nVariety of Sizes: Choose from 2-piece, 3-piece, or sectional sofa sets to fit your space perfectly.\nEasy Maintenance: Removable cushion covers for easy cleaning and care.\n\nTransform your living space with our elegant sofa sets, perfect for creating a cozy, stylish environment in any home.",
+        "category": "sofas and couches",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 7,
+        "name": "Allure Sofa",
+        "price": 29.99,
+        "image": "../../public/gallery/s6.png",
+        "description": "Upgrade your living room with our luxurious sofa sets, designed to offer both comfort and style. Each set is crafted with premium materials, providing a perfect balance of durability and elegance. Whether you're entertaining guests or enjoying a cozy evening at home, our sofa sets offer ample seating and plush cushioning for ultimate relaxation.\n\nAvailable in a variety of designs and sizes, these sofa sets complement any décor, from contemporary to classic.\n\nFeatures:\nPremium Upholstery: Made from high-quality fabric, leather, or velvet for a soft, stylish finish.\nDurable Frame: Built with a sturdy wooden or metal frame to ensure long-lasting support.\nComfortable Seating: Plush cushions and ergonomic design provide superior comfort for everyday use.\nVariety of Sizes: Choose from 2-piece, 3-piece, or sectional sofa sets to fit your space perfectly.\nEasy Maintenance: Removable cushion covers for easy cleaning and care.\n\nTransform your living space with our elegant sofa sets, perfect for creating a cozy, stylish environment in any home.",
+        "category": "sofas and couches",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 8,
+        "name": "Marxo Sofa",
+        "price": 39.99,
+        "image": "../../public/gallery/s7.png",
+        "description": "Upgrade your living room with our luxurious sofa sets, designed to offer both comfort and style. Each set is crafted with premium materials, providing a perfect balance of durability and elegance. Whether you're entertaining guests or enjoying a cozy evening at home, our sofa sets offer ample seating and plush cushioning for ultimate relaxation.\n\nAvailable in a variety of designs and sizes, these sofa sets complement any décor, from contemporary to classic.\n\nFeatures:\nPremium Upholstery: Made from high-quality fabric, leather, or velvet for a soft, stylish finish.\nDurable Frame: Built with a sturdy wooden or metal frame to ensure long-lasting support.\nComfortable Seating: Plush cushions and ergonomic design provide superior comfort for everyday use.\nVariety of Sizes: Choose from 2-piece, 3-piece, or sectional sofa sets to fit your space perfectly.\nEasy Maintenance: Removable cushion covers for easy cleaning and care.\n\nTransform your living space with our elegant sofa sets, perfect for creating a cozy, stylish environment in any home.",
+        "category": "sofas and couches",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 9,
+        "name": "Litano Sofa",
+        "price": 49.99,
+        "image": "../../public/gallery/s8.png",
+        "description": "Upgrade your living room with our luxurious sofa sets, designed to offer both comfort and style. Each set is crafted with premium materials, providing a perfect balance of durability and elegance. Whether you're entertaining guests or enjoying a cozy evening at home, our sofa sets offer ample seating and plush cushioning for ultimate relaxation.\n\nAvailable in a variety of designs and sizes, these sofa sets complement any décor, from contemporary to classic.\n\nFeatures:\nPremium Upholstery: Made from high-quality fabric, leather, or velvet for a soft, stylish finish.\nDurable Frame: Built with a sturdy wooden or metal frame to ensure long-lasting support.\nComfortable Seating: Plush cushions and ergonomic design provide superior comfort for everyday use.\nVariety of Sizes: Choose from 2-piece, 3-piece, or sectional sofa sets to fit your space perfectly.\nEasy Maintenance: Removable cushion covers for easy cleaning and care.\n\nTransform your living space with our elegant sofa sets, perfect for creating a cozy, stylish environment in any home.",
+        "category": "sofas and couches",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 10,
+        "name": "Robby sofa",
+        "price": 29.99,
+        "image": "../../public/gallery/s10.jpg",
+        "description": "Upgrade your living room with our luxurious sofa sets, designed to offer both comfort and style. Each set is crafted with premium materials, providing a perfect balance of durability and elegance. Whether you're entertaining guests or enjoying a cozy evening at home, our sofa sets offer ample seating and plush cushioning for ultimate relaxation.\n\nAvailable in a variety of designs and sizes, these sofa sets complement any décor, from contemporary to classic.\n\nFeatures:\nPremium Upholstery: Made from high-quality fabric, leather, or velvet for a soft, stylish finish.\nDurable Frame: Built with a sturdy wooden or metal frame to ensure long-lasting support.\nComfortable Seating: Plush cushions and ergonomic design provide superior comfort for everyday use.\nVariety of Sizes: Choose from 2-piece, 3-piece, or sectional sofa sets to fit your space perfectly.\nEasy Maintenance: Removable cushion covers for easy cleaning and care.\n\nTransform your living space with our elegant sofa sets, perfect for creating a cozy, stylish environment in any home.",
+        "category": "sofas and couches",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 11,
+        "name": "Lobby sofa",
+        "price": 39.99,
+        "image": "../../public/gallery/s11.jpeg",
+        "description": "Upgrade your living room with our luxurious sofa sets, designed to offer both comfort and style. Each set is crafted with premium materials, providing a perfect balance of durability and elegance. Whether you're entertaining guests or enjoying a cozy evening at home, our sofa sets offer ample seating and plush cushioning for ultimate relaxation.\n\nAvailable in a variety of designs and sizes, these sofa sets complement any décor, from contemporary to classic.\n\nFeatures:\nPremium Upholstery: Made from high-quality fabric, leather, or velvet for a soft, stylish finish.\nDurable Frame: Built with a sturdy wooden or metal frame to ensure long-lasting support.\nComfortable Seating: Plush cushions and ergonomic design provide superior comfort for everyday use.\nVariety of Sizes: Choose from 2-piece, 3-piece, or sectional sofa sets to fit your space perfectly.\nEasy Maintenance: Removable cushion covers for easy cleaning and care.\n\nTransform your living space with our elegant sofa sets, perfect for creating a cozy, stylish environment in any home.",
+        "category": "sofas and couches",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 12,
+        "name": "Retro sofa",
+        "price": 49.99,
+        "image": "../../public/gallery/s12.jpg",
+        "description": "Upgrade your living room with our luxurious sofa sets, designed to offer both comfort and style. Each set is crafted with premium materials, providing a perfect balance of durability and elegance. Whether you're entertaining guests or enjoying a cozy evening at home, our sofa sets offer ample seating and plush cushioning for ultimate relaxation.\n\nAvailable in a variety of designs and sizes, these sofa sets complement any décor, from contemporary to classic.\n\nFeatures:\nPremium Upholstery: Made from high-quality fabric, leather, or velvet for a soft, stylish finish.\nDurable Frame: Built with a sturdy wooden or metal frame to ensure long-lasting support.\nComfortable Seating: Plush cushions and ergonomic design provide superior comfort for everyday use.\nVariety of Sizes: Choose from 2-piece, 3-piece, or sectional sofa sets to fit your space perfectly.\nEasy Maintenance: Removable cushion covers for easy cleaning and care.\n\nTransform your living space with our elegant sofa sets, perfect for creating a cozy, stylish environment in any home.",
+        "category": "sofas and couches",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 13,
+        "name": "Nova",
+        "price": 29.99,
+        "image": "../../public/gallery/chair1.jpg",
+        "description": "Bring comfort and style to your home with our expertly crafted chairs, designed to suit any room and décor. Whether you're looking for dining chairs, accent chairs, or office chairs, our selection offers both aesthetic appeal and ergonomic support. Made from premium materials, these chairs are built to last while enhancing the look and feel of your space.\n\nFrom contemporary designs to timeless classics, our chairs offer versatility and functionality.\n\nFeatures:\nPremium Materials: Made from high-quality wood, metal, or upholstered fabric for durability and style.\nComfortable Design: Ergonomically crafted for optimal support and comfort during extended use.\nVariety of Styles: Available in modern, vintage, or minimalist designs to match any room décor.\nMultiple Uses: Perfect for dining rooms, living rooms, offices, or as accent pieces.\nEasy Assembly: Comes with clear instructions for quick and easy setup.\n\nUpgrade your seating experience with our elegant and functional chairs, perfect for adding comfort and style to any space.",
+        "category": "chair and recliners",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 14,
+        "name": "Fusion",
+        "price": 39.99,
+        "image": "../../public/gallery/chair2.webp",
+        "description": "Bring comfort and style to your home with our expertly crafted chairs, designed to suit any room and décor. Whether you're looking for dining chairs, accent chairs, or office chairs, our selection offers both aesthetic appeal and ergonomic support. Made from premium materials, these chairs are built to last while enhancing the look and feel of your space.\n\nFrom contemporary designs to timeless classics, our chairs offer versatility and functionality.\n\nFeatures:\nPremium Materials: Made from high-quality wood, metal, or upholstered fabric for durability and style.\nComfortable Design: Ergonomically crafted for optimal support and comfort during extended use.\nVariety of Styles: Available in modern, vintage, or minimalist designs to match any room décor.\nMultiple Uses: Perfect for dining rooms, living rooms, offices, or as accent pieces.\nEasy Assembly: Comes with clear instructions for quick and easy setup.\n\nUpgrade your seating experience with our elegant and functional chairs, perfect for adding comfort and style to any space.",
+        "category": "chair and recliners",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 15,
+        "name": "Pulse",
+        "price": 49.99,
+        "image": "../../public/gallery/chair3.webp",
+        "description": "Bring comfort and style to your home with our expertly crafted chairs, designed to suit any room and décor. Whether you're looking for dining chairs, accent chairs, or office chairs, our selection offers both aesthetic appeal and ergonomic support. Made from premium materials, these chairs are built to last while enhancing the look and feel of your space.\n\nFrom contemporary designs to timeless classics, our chairs offer versatility and functionality.\n\nFeatures:\nPremium Materials: Made from high-quality wood, metal, or upholstered fabric for durability and style.\nComfortable Design: Ergonomically crafted for optimal support and comfort during extended use.\nVariety of Styles: Available in modern, vintage, or minimalist designs to match any room décor.\nMultiple Uses: Perfect for dining rooms, living rooms, offices, or as accent pieces.\nEasy Assembly: Comes with clear instructions for quick and easy setup.\n\nUpgrade your seating experience with our elegant and functional chairs, perfect for adding comfort and style to any space.",
+        "category": "chair and recliners",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 16,
+        "name": "Flux",
+        "price": 29.99,
+        "image": "../../public/gallery/chair4.webp",
+        "description": "Bring comfort and style to your home with our expertly crafted chairs, designed to suit any room and décor. Whether you're looking for dining chairs, accent chairs, or office chairs, our selection offers both aesthetic appeal and ergonomic support. Made from premium materials, these chairs are built to last while enhancing the look and feel of your space.\n\nFrom contemporary designs to timeless classics, our chairs offer versatility and functionality.\n\nFeatures:\nPremium Materials: Made from high-quality wood, metal, or upholstered fabric for durability and style.\nComfortable Design: Ergonomically crafted for optimal support and comfort during extended use.\nVariety of Styles: Available in modern, vintage, or minimalist designs to match any room décor.\nMultiple Uses: Perfect for dining rooms, living rooms, offices, or as accent pieces.\nEasy Assembly: Comes with clear instructions for quick and easy setup.\n\nUpgrade your seating experience with our elegant and functional chairs, perfect for adding comfort and style to any space.",
+        "category": "chair and recliners",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 17,
+        "name": "Apex",
+        "price": 39.99,
+        "image": "../../public/gallery/chair5.webp",
+        "description": "Bring comfort and style to your home with our expertly crafted chairs, designed to suit any room and décor. Whether you're looking for dining chairs, accent chairs, or office chairs, our selection offers both aesthetic appeal and ergonomic support. Made from premium materials, these chairs are built to last while enhancing the look and feel of your space.\n\nFrom contemporary designs to timeless classics, our chairs offer versatility and functionality.\n\nFeatures:\nPremium Materials: Made from high-quality wood, metal, or upholstered fabric for durability and style.\nComfortable Design: Ergonomically crafted for optimal support and comfort during extended use.\nVariety of Styles: Available in modern, vintage, or minimalist designs to match any room décor.\nMultiple Uses: Perfect for dining rooms, living rooms, offices, or as accent pieces.\nEasy Assembly: Comes with clear instructions for quick and easy setup.\n\nUpgrade your seating experience with our elegant and functional chairs, perfect for adding comfort and style to any space.",
+        "category": "chair and recliners",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 18,
+        "name": "Zenith",
+        "price": 49.99,
+        "image": "../../public/gallery/chair6.webp",
+        "description": "Bring comfort and style to your home with our expertly crafted chairs, designed to suit any room and décor. Whether you're looking for dining chairs, accent chairs, or office chairs, our selection offers both aesthetic appeal and ergonomic support. Made from premium materials, these chairs are built to last while enhancing the look and feel of your space.\n\nFrom contemporary designs to timeless classics, our chairs offer versatility and functionality.\n\nFeatures:\nPremium Materials: Made from high-quality wood, metal, or upholstered fabric for durability and style.\nComfortable Design: Ergonomically crafted for optimal support and comfort during extended use.\nVariety of Styles: Available in modern, vintage, or minimalist designs to match any room décor.\nMultiple Uses: Perfect for dining rooms, living rooms, offices, or as accent pieces.\nEasy Assembly: Comes with clear instructions for quick and easy setup.\n\nUpgrade your seating experience with our elegant and functional chairs, perfect for adding comfort and style to any space.",
+        "category": "chair and recliners",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 19,
+        "name": "Catalyst",
+        "price": 29.99,
+        "image": "../../public/gallery/chair7.webp",
+        "description": "Bring comfort and style to your home with our expertly crafted chairs, designed to suit any room and décor. Whether you're looking for dining chairs, accent chairs, or office chairs, our selection offers both aesthetic appeal and ergonomic support. Made from premium materials, these chairs are built to last while enhancing the look and feel of your space.\n\nFrom contemporary designs to timeless classics, our chairs offer versatility and functionality.\n\nFeatures:\nPremium Materials: Made from high-quality wood, metal, or upholstered fabric for durability and style.\nComfortable Design: Ergonomically crafted for optimal support and comfort during extended use.\nVariety of Styles: Available in modern, vintage, or minimalist designs to match any room décor.\nMultiple Uses: Perfect for dining rooms, living rooms, offices, or as accent pieces.\nEasy Assembly: Comes with clear instructions for quick and easy setup.\n\nUpgrade your seating experience with our elegant and functional chairs, perfect for adding comfort and style to any space.",
+        "category": "chair and recliners",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 20,
+        "name": "Velocity",
+        "price": 39.99,
+        "image": "../../public/gallery/chair8.webp",
+        "description": "Bring comfort and style to your home with our expertly crafted chairs, designed to suit any room and décor. Whether you're looking for dining chairs, accent chairs, or office chairs, our selection offers both aesthetic appeal and ergonomic support. Made from premium materials, these chairs are built to last while enhancing the look and feel of your space.\n\nFrom contemporary designs to timeless classics, our chairs offer versatility and functionality.\n\nFeatures:\nPremium Materials: Made from high-quality wood, metal, or upholstered fabric for durability and style.\nComfortable Design: Ergonomically crafted for optimal support and comfort during extended use.\nVariety of Styles: Available in modern, vintage, or minimalist designs to match any room décor.\nMultiple Uses: Perfect for dining rooms, living rooms, offices, or as accent pieces.\nEasy Assembly: Comes with clear instructions for quick and easy setup.\n\nUpgrade your seating experience with our elegant and functional chairs, perfect for adding comfort and style to any space.",
+        "category": "chair and recliners",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 21,
+        "name": "Ascend",
+        "price": 49.99,
+        "image": "../../public/gallery/chair9.webp",
+        "description": "Bring comfort and style to your home with our expertly crafted chairs, designed to suit any room and décor. Whether you're looking for dining chairs, accent chairs, or office chairs, our selection offers both aesthetic appeal and ergonomic support. Made from premium materials, these chairs are built to last while enhancing the look and feel of your space.\n\nFrom contemporary designs to timeless classics, our chairs offer versatility and functionality.\n\nFeatures:\nPremium Materials: Made from high-quality wood, metal, or upholstered fabric for durability and style.\nComfortable Design: Ergonomically crafted for optimal support and comfort during extended use.\nVariety of Styles: Available in modern, vintage, or minimalist designs to match any room décor.\nMultiple Uses: Perfect for dining rooms, living rooms, offices, or as accent pieces.\nEasy Assembly: Comes with clear instructions for quick and easy setup.\n\nUpgrade your seating experience with our elegant and functional chairs, perfect for adding comfort and style to any space.",
+        "category": "chair and recliners",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 22,
+        "name": "Luminary",
+        "price": 29.99,
+        "image": "../../public/gallery/chair10.webp",
+        "description": "Bring comfort and style to your home with our expertly crafted chairs, designed to suit any room and décor. Whether you're looking for dining chairs, accent chairs, or office chairs, our selection offers both aesthetic appeal and ergonomic support. Made from premium materials, these chairs are built to last while enhancing the look and feel of your space.\n\nFrom contemporary designs to timeless classics, our chairs offer versatility and functionality.\n\nFeatures:\nPremium Materials: Made from high-quality wood, metal, or upholstered fabric for durability and style.\nComfortable Design: Ergonomically crafted for optimal support and comfort during extended use.\nVariety of Styles: Available in modern, vintage, or minimalist designs to match any room décor.\nMultiple Uses: Perfect for dining rooms, living rooms, offices, or as accent pieces.\nEasy Assembly: Comes with clear instructions for quick and easy setup.\n\nUpgrade your seating experience with our elegant and functional chairs, perfect for adding comfort and style to any space.",
+        "category": "chair and recliners",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 23,
+        "name": "Monarch",
+        "price": 39.99,
+        "image": "../../public/gallery/chair11.webp",
+        "description": "Bring comfort and style to your home with our expertly crafted chairs, designed to suit any room and décor. Whether you're looking for dining chairs, accent chairs, or office chairs, our selection offers both aesthetic appeal and ergonomic support. Made from premium materials, these chairs are built to last while enhancing the look and feel of your space.\n\nFrom contemporary designs to timeless classics, our chairs offer versatility and functionality.\n\nFeatures:\nPremium Materials: Made from high-quality wood, metal, or upholstered fabric for durability and style.\nComfortable Design: Ergonomically crafted for optimal support and comfort during extended use.\nVariety of Styles: Available in modern, vintage, or minimalist designs to match any room décor.\nMultiple Uses: Perfect for dining rooms, living rooms, offices, or as accent pieces.\nEasy Assembly: Comes with clear instructions for quick and easy setup.\n\nUpgrade your seating experience with our elegant and functional chairs, perfect for adding comfort and style to any space.",
+        "category": "chair and recliners",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 24,
+        "name": "Emperor",
+        "price": 49.99,
+        "image": "../../public/gallery/chair12.webp",
+        "description": "Bring comfort and style to your home with our expertly crafted chairs, designed to suit any room and décor. Whether you're looking for dining chairs, accent chairs, or office chairs, our selection offers both aesthetic appeal and ergonomic support. Made from premium materials, these chairs are built to last while enhancing the look and feel of your space.\n\nFrom contemporary designs to timeless classics, our chairs offer versatility and functionality.\n\nFeatures:\nPremium Materials: Made from high-quality wood, metal, or upholstered fabric for durability and style.\nComfortable Design: Ergonomically crafted for optimal support and comfort during extended use.\nVariety of Styles: Available in modern, vintage, or minimalist designs to match any room décor.\nMultiple Uses: Perfect for dining rooms, living rooms, offices, or as accent pieces.\nEasy Assembly: Comes with clear instructions for quick and easy setup.\n\nUpgrade your seating experience with our elegant and functional chairs, perfect for adding comfort and style to any space.",
+        "category": "chair and recliners",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 25,
+        "name": "Tavlo",
+        "price": 29.99,
+        "image": "../../public/gallery/table1.jpg",
+        "description": "Enhance your living space with our stylish tables, designed to combine functionality and aesthetic appeal. Whether you need a coffee table, dining table, or side table, our collection offers a range of options to suit your lifestyle and décor preferences. Crafted from high-quality materials, these tables are built for durability and elegance, making them perfect for everyday use.\n\nAvailable in various styles, sizes, and finishes, our tables fit seamlessly into any room.\n\nFeatures:\nPremium Construction: Made from solid wood, metal, or glass for long-lasting durability.\nVersatile Designs: Choose from modern, rustic, or traditional styles to complement your home.\nFunctional Features: Many tables include storage options, adjustable heights, or extendable designs for added convenience.\nMultiple Sizes: Available in various dimensions to fit your space, whether large or small.\nEasy to Clean: Smooth surfaces make maintenance a breeze.\n\nTransform your home with our exquisite tables, perfect for gathering with family and friends or displaying your favorite décor.",
+        "category": "tables",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 26,
+        "name": "Flora",
+        "price": 39.99,
+        "image": "../../public/gallery/table2.jpg",
+        "description": "Enhance your living space with our stylish tables, designed to combine functionality and aesthetic appeal. Whether you need a coffee table, dining table, or side table, our collection offers a range of options to suit your lifestyle and décor preferences. Crafted from high-quality materials, these tables are built for durability and elegance, making them perfect for everyday use.\n\nAvailable in various styles, sizes, and finishes, our tables fit seamlessly into any room.\n\nFeatures:\nPremium Construction: Made from solid wood, metal, or glass for long-lasting durability.\nVersatile Designs: Choose from modern, rustic, or traditional styles to complement your home.\nFunctional Features: Many tables include storage options, adjustable heights, or extendable designs for added convenience.\nMultiple Sizes: Available in various dimensions to fit your space, whether large or small.\nEasy to Clean: Smooth surfaces make maintenance a breeze.\n\nTransform your home with our exquisite tables, perfect for gathering with family and friends or displaying your favorite décor.",
+        "category": "tables",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 27,
+        "name": "Dino",
+        "price": 49.99,
+        "image": "../../public/gallery/table3.webp",
+        "description": "Enhance your living space with our stylish tables, designed to combine functionality and aesthetic appeal. Whether you need a coffee table, dining table, or side table, our collection offers a range of options to suit your lifestyle and décor preferences. Crafted from high-quality materials, these tables are built for durability and elegance, making them perfect for everyday use.\n\nAvailable in various styles, sizes, and finishes, our tables fit seamlessly into any room.\n\nFeatures:\nPremium Construction: Made from solid wood, metal, or glass for long-lasting durability.\nVersatile Designs: Choose from modern, rustic, or traditional styles to complement your home.\nFunctional Features: Many tables include storage options, adjustable heights, or extendable designs for added convenience.\nMultiple Sizes: Available in various dimensions to fit your space, whether large or small.\nEasy to Clean: Smooth surfaces make maintenance a breeze.\n\nTransform your home with our exquisite tables, perfect for gathering with family and friends or displaying your favorite décor.",
+        "category": "tables",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 28,
+        "name": "Casa",
+        "price": 29.99,
+        "image": "../../public/gallery/table4.webp",
+        "description": "Enhance your living space with our stylish tables, designed to combine functionality and aesthetic appeal. Whether you need a coffee table, dining table, or side table, our collection offers a range of options to suit your lifestyle and décor preferences. Crafted from high-quality materials, these tables are built for durability and elegance, making them perfect for everyday use.\n\nAvailable in various styles, sizes, and finishes, our tables fit seamlessly into any room.\n\nFeatures:\nPremium Construction: Made from solid wood, metal, or glass for long-lasting durability.\nVersatile Designs: Choose from modern, rustic, or traditional styles to complement your home.\nFunctional Features: Many tables include storage options, adjustable heights, or extendable designs for added convenience.\nMultiple Sizes: Available in various dimensions to fit your space, whether large or small.\nEasy to Clean: Smooth surfaces make maintenance a breeze.\n\nTransform your home with our exquisite tables, perfect for gathering with family and friends or displaying your favorite décor.",
+        "category": "tables",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 29,
+        "name": "Mabel",
+        "price": 39.99,
+        "image": "../../public/gallery/table5.webp",
+        "description": "Enhance your living space with our stylish tables, designed to combine functionality and aesthetic appeal. Whether you need a coffee table, dining table, or side table, our collection offers a range of options to suit your lifestyle and décor preferences. Crafted from high-quality materials, these tables are built for durability and elegance, making them perfect for everyday use.\n\nAvailable in various styles, sizes, and finishes, our tables fit seamlessly into any room.\n\nFeatures:\nPremium Construction: Made from solid wood, metal, or glass for long-lasting durability.\nVersatile Designs: Choose from modern, rustic, or traditional styles to complement your home.\nFunctional Features: Many tables include storage options, adjustable heights, or extendable designs for added convenience.\nMultiple Sizes: Available in various dimensions to fit your space, whether large or small.\nEasy to Clean: Smooth surfaces make maintenance a breeze.\n\nTransform your home with our exquisite tables, perfect for gathering with family and friends or displaying your favorite décor.",
+        "category": "tables",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 30,
+        "name": "Nesto",
+        "price": 49.99,
+        "image": "../../public/gallery/table6.webp",
+        "description": "Enhance your living space with our stylish tables, designed to combine functionality and aesthetic appeal. Whether you need a coffee table, dining table, or side table, our collection offers a range of options to suit your lifestyle and décor preferences. Crafted from high-quality materials, these tables are built for durability and elegance, making them perfect for everyday use.\n\nAvailable in various styles, sizes, and finishes, our tables fit seamlessly into any room.\n\nFeatures:\nPremium Construction: Made from solid wood, metal, or glass for long-lasting durability.\nVersatile Designs: Choose from modern, rustic, or traditional styles to complement your home.\nFunctional Features: Many tables include storage options, adjustable heights, or extendable designs for added convenience.\nMultiple Sizes: Available in various dimensions to fit your space, whether large or small.\nEasy to Clean: Smooth surfaces make maintenance a breeze.\n\nTransform your home with our exquisite tables, perfect for gathering with family and friends or displaying your favorite décor.",
+        "category": "tables",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 31,
+        "name": "Livo",
+        "price": 29.99,
+        "image": "../../public/gallery/table7.jpg",
+        "description": "Enhance your living space with our stylish tables, designed to combine functionality and aesthetic appeal. Whether you need a coffee table, dining table, or side table, our collection offers a range of options to suit your lifestyle and décor preferences. Crafted from high-quality materials, these tables are built for durability and elegance, making them perfect for everyday use.\n\nAvailable in various styles, sizes, and finishes, our tables fit seamlessly into any room.\n\nFeatures:\nPremium Construction: Made from solid wood, metal, or glass for long-lasting durability.\nVersatile Designs: Choose from modern, rustic, or traditional styles to complement your home.\nFunctional Features: Many tables include storage options, adjustable heights, or extendable designs for added convenience.\nMultiple Sizes: Available in various dimensions to fit your space, whether large or small.\nEasy to Clean: Smooth surfaces make maintenance a breeze.\n\nTransform your home with our exquisite tables, perfect for gathering with family and friends or displaying your favorite décor.",
+        "category": "tables",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 32,
+        "name": "Classico",
+        "price": 39.99,
+        "image": "../../public/gallery/table8.webp",
+        "description": "Enhance your living space with our stylish tables, designed to combine functionality and aesthetic appeal. Whether you need a coffee table, dining table, or side table, our collection offers a range of options to suit your lifestyle and décor preferences. Crafted from high-quality materials, these tables are built for durability and elegance, making them perfect for everyday use.\n\nAvailable in various styles, sizes, and finishes, our tables fit seamlessly into any room.\n\nFeatures:\nPremium Construction: Made from solid wood, metal, or glass for long-lasting durability.\nVersatile Designs: Choose from modern, rustic, or traditional styles to complement your home.\nFunctional Features: Many tables include storage options, adjustable heights, or extendable designs for added convenience.\nMultiple Sizes: Available in various dimensions to fit your space, whether large or small.\nEasy to Clean: Smooth surfaces make maintenance a breeze.\n\nTransform your home with our exquisite tables, perfect for gathering with family and friends or displaying your favorite décor.",
+        "category": "tables",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 33,
+        "name": "Fabio",
+        "price": 49.99,
+        "image": "../../public/gallery/table9.webp",
+        "description": "Enhance your living space with our stylish tables, designed to combine functionality and aesthetic appeal. Whether you need a coffee table, dining table, or side table, our collection offers a range of options to suit your lifestyle and décor preferences. Crafted from high-quality materials, these tables are built for durability and elegance, making them perfect for everyday use.\n\nAvailable in various styles, sizes, and finishes, our tables fit seamlessly into any room.\n\nFeatures:\nPremium Construction: Made from solid wood, metal, or glass for long-lasting durability.\nVersatile Designs: Choose from modern, rustic, or traditional styles to complement your home.\nFunctional Features: Many tables include storage options, adjustable heights, or extendable designs for added convenience.\nMultiple Sizes: Available in various dimensions to fit your space, whether large or small.\nEasy to Clean: Smooth surfaces make maintenance a breeze.\n\nTransform your home with our exquisite tables, perfect for gathering with family and friends or displaying your favorite décor.",
+        "category": "tables",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 34,
+        "name": "Vintagio",
+        "price": 29.99,
+        "image": "../../public/gallery/table10.webp",
+        "description": "Enhance your living space with our stylish tables, designed to combine functionality and aesthetic appeal. Whether you need a coffee table, dining table, or side table, our collection offers a range of options to suit your lifestyle and décor preferences. Crafted from high-quality materials, these tables are built for durability and elegance, making them perfect for everyday use.\n\nAvailable in various styles, sizes, and finishes, our tables fit seamlessly into any room.\n\nFeatures:\nPremium Construction: Made from solid wood, metal, or glass for long-lasting durability.\nVersatile Designs: Choose from modern, rustic, or traditional styles to complement your home.\nFunctional Features: Many tables include storage options, adjustable heights, or extendable designs for added convenience.\nMultiple Sizes: Available in various dimensions to fit your space, whether large or small.\nEasy to Clean: Smooth surfaces make maintenance a breeze.\n\nTransform your home with our exquisite tables, perfect for gathering with family and friends or displaying your favorite décor.",
+        "category": "tables",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 35,
+        "name": "Tabi",
+        "price": 39.99,
+        "image": "../../public/gallery/table11.webp",
+        "description": "Enhance your living space with our stylish tables, designed to combine functionality and aesthetic appeal. Whether you need a coffee table, dining table, or side table, our collection offers a range of options to suit your lifestyle and décor preferences. Crafted from high-quality materials, these tables are built for durability and elegance, making them perfect for everyday use.\n\nAvailable in various styles, sizes, and finishes, our tables fit seamlessly into any room.\n\nFeatures:\nPremium Construction: Made from solid wood, metal, or glass for long-lasting durability.\nVersatile Designs: Choose from modern, rustic, or traditional styles to complement your home.\nFunctional Features: Many tables include storage options, adjustable heights, or extendable designs for added convenience.\nMultiple Sizes: Available in various dimensions to fit your space, whether large or small.\nEasy to Clean: Smooth surfaces make maintenance a breeze.\n\nTransform your home with our exquisite tables, perfect for gathering with family and friends or displaying your favorite décor.",
+        "category": "tables",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 36,
+        "name": "Master",
+        "price": 49.99,
+        "image": "../../public/gallery/table12.webp",
+        "description": "Enhance your living space with our stylish tables, designed to combine functionality and aesthetic appeal. Whether you need a coffee table, dining table, or side table, our collection offers a range of options to suit your lifestyle and décor preferences. Crafted from high-quality materials, these tables are built for durability and elegance, making them perfect for everyday use.\n\nAvailable in various styles, sizes, and finishes, our tables fit seamlessly into any room.\n\nFeatures:\nPremium Construction: Made from solid wood, metal, or glass for long-lasting durability.\nVersatile Designs: Choose from modern, rustic, or traditional styles to complement your home.\nFunctional Features: Many tables include storage options, adjustable heights, or extendable designs for added convenience.\nMultiple Sizes: Available in various dimensions to fit your space, whether large or small.\nEasy to Clean: Smooth surfaces make maintenance a breeze.\n\nTransform your home with our exquisite tables, perfect for gathering with family and friends or displaying your favorite décor.",
+        "category": "tables",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    }
+]

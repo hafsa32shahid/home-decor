@@ -1,0 +1,3662 @@
+[
+    {
+        "id": 1,
+        "name": "Sheer Curtains",
+        "price": 29.99,
+        "image": "../../public/gallery/curtain1.jpeg",
+        "description": "Transform your living space with our elegant sheer curtains, designed to bring a touch of softness and sophistication to any room. Crafted from high-quality, lightweight fabric, these curtains gently filter sunlight, creating a bright and airy atmosphere while maintaining privacy.\n\nTheir delicate, flowing design complements a variety of interior styles, from modern to classic, enhancing the aesthetic of your home with minimal effort.\n\nFeatures:\nPremium Fabric: Made from 100% polyester for durability and a smooth, silky texture.\nLight Filtering: Softens natural light, creating a cozy, inviting ambiance.\nVersatile Design: Ideal for living rooms, bedrooms, or any space needing a subtle, stylish update.\nEasy Maintenance: Machine washable and wrinkle-resistant, ensuring long-lasting beauty.\nSize Options: Available in various sizes to fit any window, offering a tailored look.\nColor Choices: Comes in a range of neutral and pastel shades to complement your décor.\n\nAdd an effortless charm to your windows with these sheer curtains, perfect for enhancing the elegance of any room while allowing just the right amount of light to flow through.",
+        "category": "curtains and blinds",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 2,
+        "name": "Blackout Curtains",
+        "price": 29.99,
+        "image": "../../public/gallery/curtain2.jpeg",
+        "description": "Transform your living space with our elegant sheer curtains, designed to bring a touch of softness and sophistication to any room. Crafted from high-quality, lightweight fabric, these curtains gently filter sunlight, creating a bright and airy atmosphere while maintaining privacy.\n\nTheir delicate, flowing design complements a variety of interior styles, from modern to classic, enhancing the aesthetic of your home with minimal effort.\n\nFeatures:\nPremium Fabric: Made from 100% polyester for durability and a smooth, silky texture.\nLight Filtering: Softens natural light, creating a cozy, inviting ambiance.\nVersatile Design: Ideal for living rooms, bedrooms, or any space needing a subtle, stylish update.\nEasy Maintenance: Machine washable and wrinkle-resistant, ensuring long-lasting beauty.\nSize Options: Available in various sizes to fit any window, offering a tailored look.\nColor Choices: Comes in a range of neutral and pastel shades to complement your décor.\n\nAdd an effortless charm to your windows with these sheer curtains, perfect for enhancing the elegance of any room while allowing just the right amount of light to flow through.",
+        "category": "curtains and blinds",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 3,
+        "name": "Rod Pocket Curtains",
+        "price": 49.99,
+        "image": "../../public/gallery/curtain3.jpeg",
+        "description": "Transform your living space with our elegant sheer curtains, designed to bring a touch of softness and sophistication to any room. Crafted from high-quality, lightweight fabric, these curtains gently filter sunlight, creating a bright and airy atmosphere while maintaining privacy.\n\nTheir delicate, flowing design complements a variety of interior styles, from modern to classic, enhancing the aesthetic of your home with minimal effort.\n\nFeatures:\nPremium Fabric: Made from 100% polyester for durability and a smooth, silky texture.\nLight Filtering: Softens natural light, creating a cozy, inviting ambiance.\nVersatile Design: Ideal for living rooms, bedrooms, or any space needing a subtle, stylish update.\nEasy Maintenance: Machine washable and wrinkle-resistant, ensuring long-lasting beauty.\nSize Options: Available in various sizes to fit any window, offering a tailored look.\nColor Choices: Comes in a range of neutral and pastel shades to complement your décor.\n\nAdd an effortless charm to your windows with these sheer curtains, perfect for enhancing the elegance of any room while allowing just the right amount of light to flow through.",
+        "category": "curtains and blinds",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 4,
+        "name": "Grommet Curtains",
+        "price": 29.99,
+        "image": "../../public/gallery/curtain4.jpeg",
+        "description": "Transform your living space with our elegant sheer curtains, designed to bring a touch of softness and sophistication to any room. Crafted from high-quality, lightweight fabric, these curtains gently filter sunlight, creating a bright and airy atmosphere while maintaining privacy.\n\nTheir delicate, flowing design complements a variety of interior styles, from modern to classic, enhancing the aesthetic of your home with minimal effort.\n\nFeatures:\nPremium Fabric: Made from 100% polyester for durability and a smooth, silky texture.\nLight Filtering: Softens natural light, creating a cozy, inviting ambiance.\nVersatile Design: Ideal for living rooms, bedrooms, or any space needing a subtle, stylish update.\nEasy Maintenance: Machine washable and wrinkle-resistant, ensuring long-lasting beauty.\nSize Options: Available in various sizes to fit any window, offering a tailored look.\nColor Choices: Comes in a range of neutral and pastel shades to complement your décor.\n\nAdd an effortless charm to your windows with these sheer curtains, perfect for enhancing the elegance of any room while allowing just the right amount of light to flow through.",
+        "category": "curtains and blinds",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 5,
+        "name": "Pinch Pleat Curtains",
+        "price": 39.99,
+        "image": "../../public/gallery/curtain5.jpeg",
+        "description": "Transform your living space with our elegant sheer curtains, designed to bring a touch of softness and sophistication to any room. Crafted from high-quality, lightweight fabric, these curtains gently filter sunlight, creating a bright and airy atmosphere while maintaining privacy.\n\nTheir delicate, flowing design complements a variety of interior styles, from modern to classic, enhancing the aesthetic of your home with minimal effort.\n\nFeatures:\nPremium Fabric: Made from 100% polyester for durability and a smooth, silky texture.\nLight Filtering: Softens natural light, creating a cozy, inviting ambiance.\nVersatile Design: Ideal for living rooms, bedrooms, or any space needing a subtle, stylish update.\nEasy Maintenance: Machine washable and wrinkle-resistant, ensuring long-lasting beauty.\nSize Options: Available in various sizes to fit any window, offering a tailored look.\nColor Choices: Comes in a range of neutral and pastel shades to complement your décor.\n\nAdd an effortless charm to your windows with these sheer curtains, perfect for enhancing the elegance of any room while allowing just the right amount of light to flow through.",
+        "category": "curtains and blinds",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 6,
+        "name": "Tab Top Curtains",
+        "price": 49.99,
+        "image": "../../public/gallery/curtain6.jpeg",
+        "description": "Transform your living space with our elegant sheer curtains, designed to bring a touch of softness and sophistication to any room. Crafted from high-quality, lightweight fabric, these curtains gently filter sunlight, creating a bright and airy atmosphere while maintaining privacy.\n\nTheir delicate, flowing design complements a variety of interior styles, from modern to classic, enhancing the aesthetic of your home with minimal effort.\n\nFeatures:\nPremium Fabric: Made from 100% polyester for durability and a smooth, silky texture.\nLight Filtering: Softens natural light, creating a cozy, inviting ambiance.\nVersatile Design: Ideal for living rooms, bedrooms, or any space needing a subtle, stylish update.\nEasy Maintenance: Machine washable and wrinkle-resistant, ensuring long-lasting beauty.\nSize Options: Available in various sizes to fit any window, offering a tailored look.\nColor Choices: Comes in a range of neutral and pastel shades to complement your décor.\n\nAdd an effortless charm to your windows with these sheer curtains, perfect for enhancing the elegance of any room while allowing just the right amount of light to flow through.",
+        "category": "curtains and blinds",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 7,
+        "name": "Valance Curtains",
+        "price": 29.99,
+        "image": "../../public/gallery/curtain7.jpeg",
+        "description": "Transform your living space with our elegant sheer curtains, designed to bring a touch of softness and sophistication to any room. Crafted from high-quality, lightweight fabric, these curtains gently filter sunlight, creating a bright and airy atmosphere while maintaining privacy.\n\nTheir delicate, flowing design complements a variety of interior styles, from modern to classic, enhancing the aesthetic of your home with minimal effort.\n\nFeatures:\nPremium Fabric: Made from 100% polyester for durability and a smooth, silky texture.\nLight Filtering: Softens natural light, creating a cozy, inviting ambiance.\nVersatile Design: Ideal for living rooms, bedrooms, or any space needing a subtle, stylish update.\nEasy Maintenance: Machine washable and wrinkle-resistant, ensuring long-lasting beauty.\nSize Options: Available in various sizes to fit any window, offering a tailored look.\nColor Choices: Comes in a range of neutral and pastel shades to complement your décor.\n\nAdd an effortless charm to your windows with these sheer curtains, perfect for enhancing the elegance of any room while allowing just the right amount of light to flow through.",
+        "category": "curtains and blinds",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 8,
+        "name": "Thermal Curtains",
+        "price": 39.99,
+        "image": "../../public/gallery/curtain8.jpeg",
+        "description": "Transform your living space with our elegant sheer curtains, designed to bring a touch of softness and sophistication to any room. Crafted from high-quality, lightweight fabric, these curtains gently filter sunlight, creating a bright and airy atmosphere while maintaining privacy.\n\nTheir delicate, flowing design complements a variety of interior styles, from modern to classic, enhancing the aesthetic of your home with minimal effort.\n\nFeatures:\nPremium Fabric: Made from 100% polyester for durability and a smooth, silky texture.\nLight Filtering: Softens natural light, creating a cozy, inviting ambiance.\nVersatile Design: Ideal for living rooms, bedrooms, or any space needing a subtle, stylish update.\nEasy Maintenance: Machine washable and wrinkle-resistant, ensuring long-lasting beauty.\nSize Options: Available in various sizes to fit any window, offering a tailored look.\nColor Choices: Comes in a range of neutral and pastel shades to complement your décor.\n\nAdd an effortless charm to your windows with these sheer curtains, perfect for enhancing the elegance of any room while allowing just the right amount of light to flow through.",
+        "category": "curtains and blinds",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 9,
+        "name": "Café Curtains",
+        "price": 49.99,
+        "image": "../../public/gallery/curtain9.jpeg",
+        "description": "Transform your living space with our elegant sheer curtains, designed to bring a touch of softness and sophistication to any room. Crafted from high-quality, lightweight fabric, these curtains gently filter sunlight, creating a bright and airy atmosphere while maintaining privacy.\n\nTheir delicate, flowing design complements a variety of interior styles, from modern to classic, enhancing the aesthetic of your home with minimal effort.\n\nFeatures:\nPremium Fabric: Made from 100% polyester for durability and a smooth, silky texture.\nLight Filtering: Softens natural light, creating a cozy, inviting ambiance.\nVersatile Design: Ideal for living rooms, bedrooms, or any space needing a subtle, stylish update.\nEasy Maintenance: Machine washable and wrinkle-resistant, ensuring long-lasting beauty.\nSize Options: Available in various sizes to fit any window, offering a tailored look.\nColor Choices: Comes in a range of neutral and pastel shades to complement your décor.\n\nAdd an effortless charm to your windows with these sheer curtains, perfect for enhancing the elegance of any room while allowing just the right amount of light to flow through.",
+        "category": "curtains and blinds",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 10,
+        "name": "Pleated Drapes",
+        "price": 29.99,
+        "image": "../../public/gallery/curtain10.jpeg",
+        "description": "Transform your living space with our elegant sheer curtains, designed to bring a touch of softness and sophistication to any room. Crafted from high-quality, lightweight fabric, these curtains gently filter sunlight, creating a bright and airy atmosphere while maintaining privacy.\n\nTheir delicate, flowing design complements a variety of interior styles, from modern to classic, enhancing the aesthetic of your home with minimal effort.\n\nFeatures:\nPremium Fabric: Made from 100% polyester for durability and a smooth, silky texture.\nLight Filtering: Softens natural light, creating a cozy, inviting ambiance.\nVersatile Design: Ideal for living rooms, bedrooms, or any space needing a subtle, stylish update.\nEasy Maintenance: Machine washable and wrinkle-resistant, ensuring long-lasting beauty.\nSize Options: Available in various sizes to fit any window, offering a tailored look.\nColor Choices: Comes in a range of neutral and pastel shades to complement your décor.\n\nAdd an effortless charm to your windows with these sheer curtains, perfect for enhancing the elegance of any room while allowing just the right amount of light to flow through.",
+        "category": "curtains and blinds",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 11,
+        "name": "Linen Curtains",
+        "price": 39.99,
+        "image": "../../public/gallery/curtain11.jpeg",
+        "description": "Transform your living space with our elegant sheer curtains, designed to bring a touch of softness and sophistication to any room. Crafted from high-quality, lightweight fabric, these curtains gently filter sunlight, creating a bright and airy atmosphere while maintaining privacy.\n\nTheir delicate, flowing design complements a variety of interior styles, from modern to classic, enhancing the aesthetic of your home with minimal effort.\n\nFeatures:\nPremium Fabric: Made from 100% polyester for durability and a smooth, silky texture.\nLight Filtering: Softens natural light, creating a cozy, inviting ambiance.\nVersatile Design: Ideal for living rooms, bedrooms, or any space needing a subtle, stylish update.\nEasy Maintenance: Machine washable and wrinkle-resistant, ensuring long-lasting beauty.\nSize Options: Available in various sizes to fit any window, offering a tailored look.\nColor Choices: Comes in a range of neutral and pastel shades to complement your décor.\n\nAdd an effortless charm to your windows with these sheer curtains, perfect for enhancing the elegance of any room while allowing just the right amount of light to flow through.",
+        "category": "curtains and blinds",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 12,
+        "name": "Silk Curtains",
+        "price": 49.99,
+        "image": "../../public/gallery/curtain12.jpeg",
+        "description": "Transform your living space with our elegant sheer curtains, designed to bring a touch of softness and sophistication to any room. Crafted from high-quality, lightweight fabric, these curtains gently filter sunlight, creating a bright and airy atmosphere while maintaining privacy.\n\nTheir delicate, flowing design complements a variety of interior styles, from modern to classic, enhancing the aesthetic of your home with minimal effort.\n\nFeatures:\nPremium Fabric: Made from 100% polyester for durability and a smooth, silky texture.\nLight Filtering: Softens natural light, creating a cozy, inviting ambiance.\nVersatile Design: Ideal for living rooms, bedrooms, or any space needing a subtle, stylish update.\nEasy Maintenance: Machine washable and wrinkle-resistant, ensuring long-lasting beauty.\nSize Options: Available in various sizes to fit any window, offering a tailored look.\nColor Choices: Comes in a range of neutral and pastel shades to complement your décor.\n\nAdd an effortless charm to your windows with these sheer curtains, perfect for enhancing the elegance of any room while allowing just the right amount of light to flow through.",
+        "category": "curtains and blinds",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 13,
+        "name": "Throw Pillow",
+        "price": 29.99,
+        "image": "../../public/gallery/cushion1.jpeg",
+        "description": "Add a touch of comfort and style to your living space with our premium cushions, crafted to provide both elegance and coziness. These cushions are made from high-quality materials that ensure durability and long-lasting comfort, making them perfect for everyday use.\n\nTheir versatile design allows them to blend seamlessly into any room, from modern to traditional interiors, while offering support for your back and seating.\n\nFeatures:\nPremium Materials: Soft, plush fabric cover with durable filling for long-lasting comfort.\nMultiple Sizes: Available in various sizes to suit your needs and décor.\nStylish Designs: Choose from a range of patterns and colors that complement your home.\nEasy Maintenance: Removable covers are machine washable, ensuring hassle-free cleaning.\nVersatile Use: Ideal for living rooms, bedrooms, or outdoor seating areas.\n\nElevate the look and feel of your space with these luxurious cushions, perfect for adding a pop of color and extra comfort to any room.",
+        "category": "cushions and throws",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 14,
+        "name": "Bolster Cushion",
+        "price": 39.99,
+        "image": "../../public/gallery/cushion2.jpeg",
+        "description": "Add a touch of comfort and style to your living space with our premium cushions, crafted to provide both elegance and coziness. These cushions are made from high-quality materials that ensure durability and long-lasting comfort, making them perfect for everyday use.\n\nTheir versatile design allows them to blend seamlessly into any room, from modern to traditional interiors, while offering support for your back and seating.\n\nFeatures:\nPremium Materials: Soft, plush fabric cover with durable filling for long-lasting comfort.\nMultiple Sizes: Available in various sizes to suit your needs and décor.\nStylish Designs: Choose from a range of patterns and colors that complement your home.\nEasy Maintenance: Removable covers are machine washable, ensuring hassle-free cleaning.\nVersatile Use: Ideal for living rooms, bedrooms, or outdoor seating areas.\n\nElevate the look and feel of your space with these luxurious cushions, perfect for adding a pop of color and extra comfort to any room.",
+        "category": "cushions and throws",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 15,
+        "name": "Seat Cushion",
+        "price": 49.99,
+        "image": "../../public/gallery/cushion3.jpeg",
+        "description": "Add a touch of comfort and style to your living space with our premium cushions, crafted to provide both elegance and coziness. These cushions are made from high-quality materials that ensure durability and long-lasting comfort, making them perfect for everyday use.\n\nTheir versatile design allows them to blend seamlessly into any room, from modern to traditional interiors, while offering support for your back and seating.\n\nFeatures:\nPremium Materials: Soft, plush fabric cover with durable filling for long-lasting comfort.\nMultiple Sizes: Available in various sizes to suit your needs and décor.\nStylish Designs: Choose from a range of patterns and colors that complement your home.\nEasy Maintenance: Removable covers are machine washable, ensuring hassle-free cleaning.\nVersatile Use: Ideal for living rooms, bedrooms, or outdoor seating areas.\n\nElevate the look and feel of your space with these luxurious cushions, perfect for adding a pop of color and extra comfort to any room.",
+        "category": "cushions and throws",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 16,
+        "name": "Floor Cushion",
+        "price": 29.99,
+        "image": "../../public/gallery/cushion4.jpeg",
+        "description": "Add a touch of comfort and style to your living space with our premium cushions, crafted to provide both elegance and coziness. These cushions are made from high-quality materials that ensure durability and long-lasting comfort, making them perfect for everyday use.\n\nTheir versatile design allows them to blend seamlessly into any room, from modern to traditional interiors, while offering support for your back and seating.\n\nFeatures:\nPremium Materials: Soft, plush fabric cover with durable filling for long-lasting comfort.\nMultiple Sizes: Available in various sizes to suit your needs and décor.\nStylish Designs: Choose from a range of patterns and colors that complement your home.\nEasy Maintenance: Removable covers are machine washable, ensuring hassle-free cleaning.\nVersatile Use: Ideal for living rooms, bedrooms, or outdoor seating areas.\n\nElevate the look and feel of your space with these luxurious cushions, perfect for adding a pop of color and extra comfort to any room.",
+        "category": "cushions and throws",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 17,
+        "name": "Lumbar Support Pillow",
+        "price": 39.99,
+        "image": "../../public/gallery/cushion5.jpeg",
+        "description": "Add a touch of comfort and style to your living space with our premium cushions, crafted to provide both elegance and coziness. These cushions are made from high-quality materials that ensure durability and long-lasting comfort, making them perfect for everyday use.\n\nTheir versatile design allows them to blend seamlessly into any room, from modern to traditional interiors, while offering support for your back and seating.\n\nFeatures:\nPremium Materials: Soft, plush fabric cover with durable filling for long-lasting comfort.\nMultiple Sizes: Available in various sizes to suit your needs and décor.\nStylish Designs: Choose from a range of patterns and colors that complement your home.\nEasy Maintenance: Removable covers are machine washable, ensuring hassle-free cleaning.\nVersatile Use: Ideal for living rooms, bedrooms, or outdoor seating areas.\n\nElevate the look and feel of your space with these luxurious cushions, perfect for adding a pop of color and extra comfort to any room.",
+        "category": "cushions and throws",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 18,
+        "name": "Bean Bag Cushion",
+        "price": 49.99,
+        "image": "../../public/gallery/cushion6.jpeg",
+        "description": "Add a touch of comfort and style to your living space with our premium cushions, crafted to provide both elegance and coziness. These cushions are made from high-quality materials that ensure durability and long-lasting comfort, making them perfect for everyday use.\n\nTheir versatile design allows them to blend seamlessly into any room, from modern to traditional interiors, while offering support for your back and seating.\n\nFeatures:\nPremium Materials: Soft, plush fabric cover with durable filling for long-lasting comfort.\nMultiple Sizes: Available in various sizes to suit your needs and décor.\nStylish Designs: Choose from a range of patterns and colors that complement your home.\nEasy Maintenance: Removable covers are machine washable, ensuring hassle-free cleaning.\nVersatile Use: Ideal for living rooms, bedrooms, or outdoor seating areas.\n\nElevate the look and feel of your space with these luxurious cushions, perfect for adding a pop of color and extra comfort to any room.",
+        "category": "cushions and throws",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 19,
+        "name": "Memory Foam Cushion",
+        "price": 29.99,
+        "image": "../../public/gallery/cushion7.jpeg",
+        "description": "Add a touch of comfort and style to your living space with our premium cushions, crafted to provide both elegance and coziness. These cushions are made from high-quality materials that ensure durability and long-lasting comfort, making them perfect for everyday use.\n\nTheir versatile design allows them to blend seamlessly into any room, from modern to traditional interiors, while offering support for your back and seating.\n\nFeatures:\nPremium Materials: Soft, plush fabric cover with durable filling for long-lasting comfort.\nMultiple Sizes: Available in various sizes to suit your needs and décor.\nStylish Designs: Choose from a range of patterns and colors that complement your home.\nEasy Maintenance: Removable covers are machine washable, ensuring hassle-free cleaning.\nVersatile Use: Ideal for living rooms, bedrooms, or outdoor seating areas.\n\nElevate the look and feel of your space with these luxurious cushions, perfect for adding a pop of color and extra comfort to any room.",
+        "category": "cushions and throws",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 20,
+        "name": "Travel Pillow",
+        "price": 39.99,
+        "image": "../../public/gallery/cushion8.jpeg",
+        "description": "Add a touch of comfort and style to your living space with our premium cushions, crafted to provide both elegance and coziness. These cushions are made from high-quality materials that ensure durability and long-lasting comfort, making them perfect for everyday use.\n\nTheir versatile design allows them to blend seamlessly into any room, from modern to traditional interiors, while offering support for your back and seating.\n\nFeatures:\nPremium Materials: Soft, plush fabric cover with durable filling for long-lasting comfort.\nMultiple Sizes: Available in various sizes to suit your needs and décor.\nStylish Designs: Choose from a range of patterns and colors that complement your home.\nEasy Maintenance: Removable covers are machine washable, ensuring hassle-free cleaning.\nVersatile Use: Ideal for living rooms, bedrooms, or outdoor seating areas.\n\nElevate the look and feel of your space with these luxurious cushions, perfect for adding a pop of color and extra comfort to any room.",
+        "category": "cushions and throws",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 21,
+        "name": "Kids' Cushion",
+        "price": 49.99,
+        "image": "../../public/gallery/cushion9.jpeg",
+        "description": "Add a touch of comfort and style to your living space with our premium cushions, crafted to provide both elegance and coziness. These cushions are made from high-quality materials that ensure durability and long-lasting comfort, making them perfect for everyday use.\n\nTheir versatile design allows them to blend seamlessly into any room, from modern to traditional interiors, while offering support for your back and seating.\n\nFeatures:\nPremium Materials: Soft, plush fabric cover with durable filling for long-lasting comfort.\nMultiple Sizes: Available in various sizes to suit your needs and décor.\nStylish Designs: Choose from a range of patterns and colors that complement your home.\nEasy Maintenance: Removable covers are machine washable, ensuring hassle-free cleaning.\nVersatile Use: Ideal for living rooms, bedrooms, or outdoor seating areas.\n\nElevate the look and feel of your space with these luxurious cushions, perfect for adding a pop of color and extra comfort to any room.",
+        "category": "cushions and throws",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 22,
+        "name": "Reversible Cushion",
+        "price": 29.99,
+        "image": "../../public/gallery/cushion10.jpeg",
+        "description": "Add a touch of comfort and style to your living space with our premium cushions, crafted to provide both elegance and coziness. These cushions are made from high-quality materials that ensure durability and long-lasting comfort, making them perfect for everyday use.\n\nTheir versatile design allows them to blend seamlessly into any room, from modern to traditional interiors, while offering support for your back and seating.\n\nFeatures:\nPremium Materials: Soft, plush fabric cover with durable filling for long-lasting comfort.\nMultiple Sizes: Available in various sizes to suit your needs and décor.\nStylish Designs: Choose from a range of patterns and colors that complement your home.\nEasy Maintenance: Removable covers are machine washable, ensuring hassle-free cleaning.\nVersatile Use: Ideal for living rooms, bedrooms, or outdoor seating areas.\n\nElevate the look and feel of your space with these luxurious cushions, perfect for adding a pop of color and extra comfort to any room.",
+        "category": "cushions and throws",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 23,
+        "name": "Cushion Pad",
+        "price": 39.99,
+        "image": "../../public/gallery/cushion11.jpeg",
+        "description": "Add a touch of comfort and style to your living space with our premium cushions, crafted to provide both elegance and coziness. These cushions are made from high-quality materials that ensure durability and long-lasting comfort, making them perfect for everyday use.\n\nTheir versatile design allows them to blend seamlessly into any room, from modern to traditional interiors, while offering support for your back and seating.\n\nFeatures:\nPremium Materials: Soft, plush fabric cover with durable filling for long-lasting comfort.\nMultiple Sizes: Available in various sizes to suit your needs and décor.\nStylish Designs: Choose from a range of patterns and colors that complement your home.\nEasy Maintenance: Removable covers are machine washable, ensuring hassle-free cleaning.\nVersatile Use: Ideal for living rooms, bedrooms, or outdoor seating areas.\n\nElevate the look and feel of your space with these luxurious cushions, perfect for adding a pop of color and extra comfort to any room.",
+        "category": "cushions and throws",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 24,
+        "name": "Outdoor Cushion",
+        "price": 49.99,
+        "image": "../../public/gallery/cushion12.jpeg",
+        "description": "Add a touch of comfort and style to your living space with our premium cushions, crafted to provide both elegance and coziness. These cushions are made from high-quality materials that ensure durability and long-lasting comfort, making them perfect for everyday use.\n\nTheir versatile design allows them to blend seamlessly into any room, from modern to traditional interiors, while offering support for your back and seating.\n\nFeatures:\nPremium Materials: Soft, plush fabric cover with durable filling for long-lasting comfort.\nMultiple Sizes: Available in various sizes to suit your needs and décor.\nStylish Designs: Choose from a range of patterns and colors that complement your home.\nEasy Maintenance: Removable covers are machine washable, ensuring hassle-free cleaning.\nVersatile Use: Ideal for living rooms, bedrooms, or outdoor seating areas.\n\nElevate the look and feel of your space with these luxurious cushions, perfect for adding a pop of color and extra comfort to any room.",
+        "category": "cushions and throws",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 25,
+        "name": "Wall Mirror",
+        "price": 29.99,
+        "image": "../../public/gallery/mirror1.jpeg",
+        "description": "Enhance the beauty and depth of your home with our stunning mirrors, designed to create a sense of space and elegance in any room. Crafted from high-quality materials, these mirrors provide a crystal-clear reflection while adding a stylish focal point to your décor.\n\nWhether you’re looking to brighten a room or add a decorative accent, our mirrors offer versatility and charm to suit any interior style.\n\nFeatures:\nHigh-Quality Glass: Crystal-clear reflection with durable, long-lasting glass.\nElegant Frames: Choose from a variety of frame styles and finishes, including wood, metal, and frameless options.\nMultiple Sizes: Available in different shapes and sizes to fit your space perfectly.\nEasy Installation: Includes mounting hardware for hassle-free hanging.\nVersatile Design: Ideal for living rooms, bedrooms, hallways, or bathrooms.\n\nTransform your space with our beautiful mirrors, perfect for adding light, depth, and style to any room in your home.",
+        "category": "wall art and mirrors",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 26,
+        "name": "Vanity Mirror",
+        "price": 39.99,
+        "image": "../../public/gallery/mirror2.jpeg",
+        "description": "Enhance the beauty and depth of your home with our stunning mirrors, designed to create a sense of space and elegance in any room. Crafted from high-quality materials, these mirrors provide a crystal-clear reflection while adding a stylish focal point to your décor.\n\nWhether you’re looking to brighten a room or add a decorative accent, our mirrors offer versatility and charm to suit any interior style.\n\nFeatures:\nHigh-Quality Glass: Crystal-clear reflection with durable, long-lasting glass.\nElegant Frames: Choose from a variety of frame styles and finishes, including wood, metal, and frameless options.\nMultiple Sizes: Available in different shapes and sizes to fit your space perfectly.\nEasy Installation: Includes mounting hardware for hassle-free hanging.\nVersatile Design: Ideal for living rooms, bedrooms, hallways, or bathrooms.\n\nTransform your space with our beautiful mirrors, perfect for adding light, depth, and style to any room in your home.",
+        "category": "wall art and mirrors",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 27,
+        "name": "Full-Length Mirror",
+        "price": 49.99,
+        "image": "../../public/gallery/mirror3.jpeg",
+        "description": "Enhance the beauty and depth of your home with our stunning mirrors, designed to create a sense of space and elegance in any room. Crafted from high-quality materials, these mirrors provide a crystal-clear reflection while adding a stylish focal point to your décor.\n\nWhether you’re looking to brighten a room or add a decorative accent, our mirrors offer versatility and charm to suit any interior style.\n\nFeatures:\nHigh-Quality Glass: Crystal-clear reflection with durable, long-lasting glass.\nElegant Frames: Choose from a variety of frame styles and finishes, including wood, metal, and frameless options.\nMultiple Sizes: Available in different shapes and sizes to fit your space perfectly.\nEasy Installation: Includes mounting hardware for hassle-free hanging.\nVersatile Design: Ideal for living rooms, bedrooms, hallways, or bathrooms.\n\nTransform your space with our beautiful mirrors, perfect for adding light, depth, and style to any room in your home.",
+        "category": "wall art and mirrors",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 28,
+        "name": "Round Mirror",
+        "price": 29.99,
+        "image": "../../public/gallery/mirror4.jpeg",
+        "description": "Enhance the beauty and depth of your home with our stunning mirrors, designed to create a sense of space and elegance in any room. Crafted from high-quality materials, these mirrors provide a crystal-clear reflection while adding a stylish focal point to your décor.\n\nWhether you’re looking to brighten a room or add a decorative accent, our mirrors offer versatility and charm to suit any interior style.\n\nFeatures:\nHigh-Quality Glass: Crystal-clear reflection with durable, long-lasting glass.\nElegant Frames: Choose from a variety of frame styles and finishes, including wood, metal, and frameless options.\nMultiple Sizes: Available in different shapes and sizes to fit your space perfectly.\nEasy Installation: Includes mounting hardware for hassle-free hanging.\nVersatile Design: Ideal for living rooms, bedrooms, hallways, or bathrooms.\n\nTransform your space with our beautiful mirrors, perfect for adding light, depth, and style to any room in your home.",
+        "category": "wall art and mirrors",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 29,
+        "name": "Framed Mirror",
+        "price": 39.99,
+        "image": "../../public/gallery/mirror5.jpeg",
+        "description": "Enhance the beauty and depth of your home with our stunning mirrors, designed to create a sense of space and elegance in any room. Crafted from high-quality materials, these mirrors provide a crystal-clear reflection while adding a stylish focal point to your décor.\n\nWhether you’re looking to brighten a room or add a decorative accent, our mirrors offer versatility and charm to suit any interior style.\n\nFeatures:\nHigh-Quality Glass: Crystal-clear reflection with durable, long-lasting glass.\nElegant Frames: Choose from a variety of frame styles and finishes, including wood, metal, and frameless options.\nMultiple Sizes: Available in different shapes and sizes to fit your space perfectly.\nEasy Installation: Includes mounting hardware for hassle-free hanging.\nVersatile Design: Ideal for living rooms, bedrooms, hallways, or bathrooms.\n\nTransform your space with our beautiful mirrors, perfect for adding light, depth, and style to any room in your home.",
+        "category": "wall art and mirrors",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 30,
+        "name": "Cheval Mirror",
+        "price": 49.99,
+        "image": "../../public/gallery/mirror6.jpeg",
+        "description": "Enhance the beauty and depth of your home with our stunning mirrors, designed to create a sense of space and elegance in any room. Crafted from high-quality materials, these mirrors provide a crystal-clear reflection while adding a stylish focal point to your décor.\n\nWhether you’re looking to brighten a room or add a decorative accent, our mirrors offer versatility and charm to suit any interior style.\n\nFeatures:\nHigh-Quality Glass: Crystal-clear reflection with durable, long-lasting glass.\nElegant Frames: Choose from a variety of frame styles and finishes, including wood, metal, and frameless options.\nMultiple Sizes: Available in different shapes and sizes to fit your space perfectly.\nEasy Installation: Includes mounting hardware for hassle-free hanging.\nVersatile Design: Ideal for living rooms, bedrooms, hallways, or bathrooms.\n\nTransform your space with our beautiful mirrors, perfect for adding light, depth, and style to any room in your home.",
+        "category": "wall art and mirrors",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 31,
+        "name": "Decorative Mirror",
+        "price": 29.99,
+        "image": "../../public/gallery/mirror7.jpeg",
+        "description": "Enhance the beauty and depth of your home with our stunning mirrors, designed to create a sense of space and elegance in any room. Crafted from high-quality materials, these mirrors provide a crystal-clear reflection while adding a stylish focal point to your décor.\n\nWhether you’re looking to brighten a room or add a decorative accent, our mirrors offer versatility and charm to suit any interior style.\n\nFeatures:\nHigh-Quality Glass: Crystal-clear reflection with durable, long-lasting glass.\nElegant Frames: Choose from a variety of frame styles and finishes, including wood, metal, and frameless options.\nMultiple Sizes: Available in different shapes and sizes to fit your space perfectly.\nEasy Installation: Includes mounting hardware for hassle-free hanging.\nVersatile Design: Ideal for living rooms, bedrooms, hallways, or bathrooms.\n\nTransform your space with our beautiful mirrors, perfect for adding light, depth, and style to any room in your home.",
+        "category": "wall art and mirrors",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 32,
+        "name": "Makeup Mirror",
+        "price": 39.99,
+        "image": "../../public/gallery/mirror8.jpeg",
+        "description": "Enhance the beauty and depth of your home with our stunning mirrors, designed to create a sense of space and elegance in any room. Crafted from high-quality materials, these mirrors provide a crystal-clear reflection while adding a stylish focal point to your décor.\n\nWhether you’re looking to brighten a room or add a decorative accent, our mirrors offer versatility and charm to suit any interior style.\n\nFeatures:\nHigh-Quality Glass: Crystal-clear reflection with durable, long-lasting glass.\nElegant Frames: Choose from a variety of frame styles and finishes, including wood, metal, and frameless options.\nMultiple Sizes: Available in different shapes and sizes to fit your space perfectly.\nEasy Installation: Includes mounting hardware for hassle-free hanging.\nVersatile Design: Ideal for living rooms, bedrooms, hallways, or bathrooms.\n\nTransform your space with our beautiful mirrors, perfect for adding light, depth, and style to any room in your home.",
+        "category": "wall art and mirrors",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 33,
+        "name": "Standing Mirror",
+        "price": 49.99,
+        "image": "../../public/gallery/mirror9.jpeg",
+        "description": "Enhance the beauty and depth of your home with our stunning mirrors, designed to create a sense of space and elegance in any room. Crafted from high-quality materials, these mirrors provide a crystal-clear reflection while adding a stylish focal point to your décor.\n\nWhether you’re looking to brighten a room or add a decorative accent, our mirrors offer versatility and charm to suit any interior style.\n\nFeatures:\nHigh-Quality Glass: Crystal-clear reflection with durable, long-lasting glass.\nElegant Frames: Choose from a variety of frame styles and finishes, including wood, metal, and frameless options.\nMultiple Sizes: Available in different shapes and sizes to fit your space perfectly.\nEasy Installation: Includes mounting hardware for hassle-free hanging.\nVersatile Design: Ideal for living rooms, bedrooms, hallways, or bathrooms.\n\nTransform your space with our beautiful mirrors, perfect for adding light, depth, and style to any room in your home.",
+        "category": "wall art and mirrors",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 34,
+        "name": "Antique Mirror",
+        "price": 29.99,
+        "image": "../../public/gallery/mirror10.jpeg",
+        "description": "Enhance the beauty and depth of your home with our stunning mirrors, designed to create a sense of space and elegance in any room. Crafted from high-quality materials, these mirrors provide a crystal-clear reflection while adding a stylish focal point to your décor.\n\nWhether you’re looking to brighten a room or add a decorative accent, our mirrors offer versatility and charm to suit any interior style.\n\nFeatures:\nHigh-Quality Glass: Crystal-clear reflection with durable, long-lasting glass.\nElegant Frames: Choose from a variety of frame styles and finishes, including wood, metal, and frameless options.\nMultiple Sizes: Available in different shapes and sizes to fit your space perfectly.\nEasy Installation: Includes mounting hardware for hassle-free hanging.\nVersatile Design: Ideal for living rooms, bedrooms, hallways, or bathrooms.\n\nTransform your space with our beautiful mirrors, perfect for adding light, depth, and style to any room in your home.",
+        "category": "wall art and mirrors",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 35,
+        "name": "Backlit Mirror",
+        "price": 39.99,
+        "image": "../../public/gallery/mirror11.jpeg",
+        "description": "Enhance the beauty and depth of your home with our stunning mirrors, designed to create a sense of space and elegance in any room. Crafted from high-quality materials, these mirrors provide a crystal-clear reflection while adding a stylish focal point to your décor.\n\nWhether you’re looking to brighten a room or add a decorative accent, our mirrors offer versatility and charm to suit any interior style.\n\nFeatures:\nHigh-Quality Glass: Crystal-clear reflection with durable, long-lasting glass.\nElegant Frames: Choose from a variety of frame styles and finishes, including wood, metal, and frameless options.\nMultiple Sizes: Available in different shapes and sizes to fit your space perfectly.\nEasy Installation: Includes mounting hardware for hassle-free hanging.\nVersatile Design: Ideal for living rooms, bedrooms, hallways, or bathrooms.\n\nTransform your space with our beautiful mirrors, perfect for adding light, depth, and style to any room in your home.",
+        "category": "wall art and mirrors",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 36,
+        "name": "Smart Mirror",
+        "price": 49.99,
+        "image": "../../public/gallery/mirror12.jpeg",
+        "description": "Enhance the beauty and depth of your home with our stunning mirrors, designed to create a sense of space and elegance in any room. Crafted from high-quality materials, these mirrors provide a crystal-clear reflection while adding a stylish focal point to your décor.\n\nWhether you’re looking to brighten a room or add a decorative accent, our mirrors offer versatility and charm to suit any interior style.\n\nFeatures:\nHigh-Quality Glass: Crystal-clear reflection with durable, long-lasting glass.\nElegant Frames: Choose from a variety of frame styles and finishes, including wood, metal, and frameless options.\nMultiple Sizes: Available in different shapes and sizes to fit your space perfectly.\nEasy Installation: Includes mounting hardware for hassle-free hanging.\nVersatile Design: Ideal for living rooms, bedrooms, hallways, or bathrooms.\n\nTransform your space with our beautiful mirrors, perfect for adding light, depth, and style to any room in your home.",
+        "category": "wall art and mirrors",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 37,
+        "name": "Flatweave Rug",
+        "price": 29.99,
+        "image": "../../public/gallery/rug1.jpeg",
+        "description": "Add warmth and style to your home with our luxurious rugs, designed to elevate the comfort and aesthetic of any room. Made from high-quality materials, these rugs provide a soft and cozy surface underfoot while enhancing your décor with their elegant patterns and textures.\n\nWhether you’re looking for a bold statement piece or a subtle addition, our rugs are versatile enough to complement any interior style.\n\nFeatures:\nPremium Materials: Crafted from soft, durable fibers for long-lasting comfort and beauty.\nVariety of Sizes: Available in a range of sizes to suit any space, from small accent rugs to large area rugs.\nStylish Designs: Choose from a variety of patterns, colors, and textures to match your home décor.\nNon-Slip Backing: Ensures safety and stability on hard floors.\nEasy Care: Stain-resistant and easy to clean, making it perfect for high-traffic areas.\n\nCreate a cozy, inviting atmosphere in your living space with our premium rugs, perfect for adding texture and warmth to any room.",
+        "category": "rugs and carpets",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 38,
+        "name": "Wool Rug",
+        "price": 29.99,
+        "image": "../../public/gallery/rug2.jpeg",
+        "description": "Add warmth and style to your home with our luxurious rugs, designed to elevate the comfort and aesthetic of any room. Made from high-quality materials, these rugs provide a soft and cozy surface underfoot while enhancing your décor with their elegant patterns and textures.\n\nWhether you’re looking for a bold statement piece or a subtle addition, our rugs are versatile enough to complement any interior style.\n\nFeatures:\nPremium Materials: Crafted from soft, durable fibers for long-lasting comfort and beauty.\nVariety of Sizes: Available in a range of sizes to suit any space, from small accent rugs to large area rugs.\nStylish Designs: Choose from a variety of patterns, colors, and textures to match your home décor.\nNon-Slip Backing: Ensures safety and stability on hard floors.\nEasy Care: Stain-resistant and easy to clean, making it perfect for high-traffic areas.\n\nCreate a cozy, inviting atmosphere in your living space with our premium rugs, perfect for adding texture and warmth to any room.",
+        "category": "rugs and carpets",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 39,
+        "name": "Moroccan Rug",
+        "price": 49.99,
+        "image": "../../public/gallery/rug3.jpeg",
+        "description": "Add warmth and style to your home with our luxurious rugs, designed to elevate the comfort and aesthetic of any room. Made from high-quality materials, these rugs provide a soft and cozy surface underfoot while enhancing your décor with their elegant patterns and textures.\n\nWhether you’re looking for a bold statement piece or a subtle addition, our rugs are versatile enough to complement any interior style.\n\nFeatures:\nPremium Materials: Crafted from soft, durable fibers for long-lasting comfort and beauty.\nVariety of Sizes: Available in a range of sizes to suit any space, from small accent rugs to large area rugs.\nStylish Designs: Choose from a variety of patterns, colors, and textures to match your home décor.\nNon-Slip Backing: Ensures safety and stability on hard floors.\nEasy Care: Stain-resistant and easy to clean, making it perfect for high-traffic areas.\n\nCreate a cozy, inviting atmosphere in your living space with our premium rugs, perfect for adding texture and warmth to any room.",
+        "category": "rugs and carpets",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 40,
+        "name": "Tibetan Rug",
+        "price": 29.99,
+        "image": "../../public/gallery/rug4.jpeg",
+        "description": "Add warmth and style to your home with our luxurious rugs, designed to elevate the comfort and aesthetic of any room. Made from high-quality materials, these rugs provide a soft and cozy surface underfoot while enhancing your décor with their elegant patterns and textures.\n\nWhether you’re looking for a bold statement piece or a subtle addition, our rugs are versatile enough to complement any interior style.\n\nFeatures:\nPremium Materials: Crafted from soft, durable fibers for long-lasting comfort and beauty.\nVariety of Sizes: Available in a range of sizes to suit any space, from small accent rugs to large area rugs.\nStylish Designs: Choose from a variety of patterns, colors, and textures to match your home décor.\nNon-Slip Backing: Ensures safety and stability on hard floors.\nEasy Care: Stain-resistant and easy to clean, making it perfect for high-traffic areas.\n\nCreate a cozy, inviting atmosphere in your living space with our premium rugs, perfect for adding texture and warmth to any room.",
+        "category": "rugs and carpets",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 41,
+        "name": "Dhurrie Rug",
+        "price": 39.99,
+        "image": "../../public/gallery/rug5.jpeg",
+        "description": "Add warmth and style to your home with our luxurious rugs, designed to elevate the comfort and aesthetic of any room. Made from high-quality materials, these rugs provide a soft and cozy surface underfoot while enhancing your décor with their elegant patterns and textures.\n\nWhether you’re looking for a bold statement piece or a subtle addition, our rugs are versatile enough to complement any interior style.\n\nFeatures:\nPremium Materials: Crafted from soft, durable fibers for long-lasting comfort and beauty.\nVariety of Sizes: Available in a range of sizes to suit any space, from small accent rugs to large area rugs.\nStylish Designs: Choose from a variety of patterns, colors, and textures to match your home décor.\nNon-Slip Backing: Ensures safety and stability on hard floors.\nEasy Care: Stain-resistant and easy to clean, making it perfect for high-traffic areas.\n\nCreate a cozy, inviting atmosphere in your living space with our premium rugs, perfect for adding texture and warmth to any room.",
+        "category": "rugs and carpets",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 42,
+        "name": "Jute Rug",
+        "price": 49.99,
+        "image": "../../public/gallery/rug6.jpeg",
+        "description": "Add warmth and style to your home with our luxurious rugs, designed to elevate the comfort and aesthetic of any room. Made from high-quality materials, these rugs provide a soft and cozy surface underfoot while enhancing your décor with their elegant patterns and textures.\n\nWhether you’re looking for a bold statement piece or a subtle addition, our rugs are versatile enough to complement any interior style.\n\nFeatures:\nPremium Materials: Crafted from soft, durable fibers for long-lasting comfort and beauty.\nVariety of Sizes: Available in a range of sizes to suit any space, from small accent rugs to large area rugs.\nStylish Designs: Choose from a variety of patterns, colors, and textures to match your home décor.\nNon-Slip Backing: Ensures safety and stability on hard floors.\nEasy Care: Stain-resistant and easy to clean, making it perfect for high-traffic areas.\n\nCreate a cozy, inviting atmosphere in your living space with our premium rugs, perfect for adding texture and warmth to any room.",
+        "category": "rugs and carpets",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 43,
+        "name": "Oriental Rug",
+        "price": 29.99,
+        "image": "../../public/gallery/rug7.jpeg",
+        "description": "Add warmth and style to your home with our luxurious rugs, designed to elevate the comfort and aesthetic of any room. Made from high-quality materials, these rugs provide a soft and cozy surface underfoot while enhancing your décor with their elegant patterns and textures.\n\nWhether you’re looking for a bold statement piece or a subtle addition, our rugs are versatile enough to complement any interior style.\n\nFeatures:\nPremium Materials: Crafted from soft, durable fibers for long-lasting comfort and beauty.\nVariety of Sizes: Available in a range of sizes to suit any space, from small accent rugs to large area rugs.\nStylish Designs: Choose from a variety of patterns, colors, and textures to match your home décor.\nNon-Slip Backing: Ensures safety and stability on hard floors.\nEasy Care: Stain-resistant and easy to clean, making it perfect for high-traffic areas.\n\nCreate a cozy, inviting atmosphere in your living space with our premium rugs, perfect for adding texture and warmth to any room.",
+        "category": "rugs and carpets",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 44,
+        "name": "Sisal Rug",
+        "price": 39.99,
+        "image": "../../public/gallery/rug8.jpeg",
+        "description": "Add warmth and style to your home with our luxurious rugs, designed to elevate the comfort and aesthetic of any room. Made from high-quality materials, these rugs provide a soft and cozy surface underfoot while enhancing your décor with their elegant patterns and textures.\n\nWhether you’re looking for a bold statement piece or a subtle addition, our rugs are versatile enough to complement any interior style.\n\nFeatures:\nPremium Materials: Crafted from soft, durable fibers for long-lasting comfort and beauty.\nVariety of Sizes: Available in a range of sizes to suit any space, from small accent rugs to large area rugs.\nStylish Designs: Choose from a variety of patterns, colors, and textures to match your home décor.\nNon-Slip Backing: Ensures safety and stability on hard floors.\nEasy Care: Stain-resistant and easy to clean, making it perfect for high-traffic areas.\n\nCreate a cozy, inviting atmosphere in your living space with our premium rugs, perfect for adding texture and warmth to any room.",
+        "category": "rugs and carpets",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 45,
+        "name": "Shag Rug",
+        "price": 49.99,
+        "image": "../../public/gallery/rug9.jpeg",
+        "description": "Add warmth and style to your home with our luxurious rugs, designed to elevate the comfort and aesthetic of any room. Made from high-quality materials, these rugs provide a soft and cozy surface underfoot while enhancing your décor with their elegant patterns and textures.\n\nWhether you’re looking for a bold statement piece or a subtle addition, our rugs are versatile enough to complement any interior style.\n\nFeatures:\nPremium Materials: Crafted from soft, durable fibers for long-lasting comfort and beauty.\nVariety of Sizes: Available in a range of sizes to suit any space, from small accent rugs to large area rugs.\nStylish Designs: Choose from a variety of patterns, colors, and textures to match your home décor.\nNon-Slip Backing: Ensures safety and stability on hard floors.\nEasy Care: Stain-resistant and easy to clean, making it perfect for high-traffic areas.\n\nCreate a cozy, inviting atmosphere in your living space with our premium rugs, perfect for adding texture and warmth to any room.",
+        "category": "rugs and carpets",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 46,
+        "name": "Berber Rug",
+        "price": 29.99,
+        "image": "../../public/gallery/rug10.jpeg",
+        "description": "Add warmth and style to your home with our luxurious rugs, designed to elevate the comfort and aesthetic of any room. Made from high-quality materials, these rugs provide a soft and cozy surface underfoot while enhancing your décor with their elegant patterns and textures.\n\nWhether you’re looking for a bold statement piece or a subtle addition, our rugs are versatile enough to complement any interior style.\n\nFeatures:\nPremium Materials: Crafted from soft, durable fibers for long-lasting comfort and beauty.\nVariety of Sizes: Available in a range of sizes to suit any space, from small accent rugs to large area rugs.\nStylish Designs: Choose from a variety of patterns, colors, and textures to match your home décor.\nNon-Slip Backing: Ensures safety and stability on hard floors.\nEasy Care: Stain-resistant and easy to clean, making it perfect for high-traffic areas.\n\nCreate a cozy, inviting atmosphere in your living space with our premium rugs, perfect for adding texture and warmth to any room.",
+        "category": "rugs and carpets",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 47,
+        "name": "Kilim Rug",
+        "price": 39.99,
+        "image": "../../public/gallery/rug11.jpeg",
+        "description": "Add warmth and style to your home with our luxurious rugs, designed to elevate the comfort and aesthetic of any room. Made from high-quality materials, these rugs provide a soft and cozy surface underfoot while enhancing your décor with their elegant patterns and textures.\n\nWhether you’re looking for a bold statement piece or a subtle addition, our rugs are versatile enough to complement any interior style.\n\nFeatures:\nPremium Materials: Crafted from soft, durable fibers for long-lasting comfort and beauty.\nVariety of Sizes: Available in a range of sizes to suit any space, from small accent rugs to large area rugs.\nStylish Designs: Choose from a variety of patterns, colors, and textures to match your home décor.\nNon-Slip Backing: Ensures safety and stability on hard floors.\nEasy Care: Stain-resistant and easy to clean, making it perfect for high-traffic areas.\n\nCreate a cozy, inviting atmosphere in your living space with our premium rugs, perfect for adding texture and warmth to any room.",
+        "category": "rugs and carpets",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 48,
+        "name": "Persian Rug",
+        "price": 49.99,
+        "image": "../../public/gallery/rug12.jpeg",
+        "description": "Add warmth and style to your home with our luxurious rugs, designed to elevate the comfort and aesthetic of any room. Made from high-quality materials, these rugs provide a soft and cozy surface underfoot while enhancing your décor with their elegant patterns and textures.\n\nWhether you’re looking for a bold statement piece or a subtle addition, our rugs are versatile enough to complement any interior style.\n\nFeatures:\nPremium Materials: Crafted from soft, durable fibers for long-lasting comfort and beauty.\nVariety of Sizes: Available in a range of sizes to suit any space, from small accent rugs to large area rugs.\nStylish Designs: Choose from a variety of patterns, colors, and textures to match your home décor.\nNon-Slip Backing: Ensures safety and stability on hard floors.\nEasy Care: Stain-resistant and easy to clean, making it perfect for high-traffic areas.\n\nCreate a cozy, inviting atmosphere in your living space with our premium rugs, perfect for adding texture and warmth to any room.",
+        "category": "rugs and carpets",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 49,
+        "name": "Classic Elegance",
+        "price": 29.99,
+        "image": "../../public/gallery/vase1.webp",
+        "description": "Elevate the aesthetic of your home with our exquisite vases, designed to add a touch of elegance and charm to any space. Crafted from premium materials, these vases are perfect for showcasing fresh flowers, dried arrangements, or standing alone as a statement piece.\n\nWith a variety of shapes, sizes, and finishes, our vases complement any décor style, from modern to classic.\n\nFeatures:\nPremium Materials: Made from high-quality ceramic, glass, or metal for durability and timeless beauty.\nUnique Designs: Available in a range of shapes and textures, from sleek and minimalist to bold and artistic.\nVersatile Use: Ideal for fresh flowers, dried arrangements, or as standalone decorative pieces.\nMultiple Sizes: Choose from various sizes to suit tabletops, shelves, or floor displays.\nEasy to Clean: Smooth surfaces make cleaning and maintenance simple and hassle-free.\n\nAdd a sophisticated touch to your home with our stunning vases, perfect for enhancing your interior décor or making a stylish gift.",
+        "category": "vases and plant pots",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 50,
+        "name": "Rustic Charm",
+        "price": 29.99,
+        "image": "../../public/gallery/vase2.jpeg",
+        "description": "Elevate the aesthetic of your home with our exquisite vases, designed to add a touch of elegance and charm to any space. Crafted from premium materials, these vases are perfect for showcasing fresh flowers, dried arrangements, or standing alone as a statement piece.\n\nWith a variety of shapes, sizes, and finishes, our vases complement any décor style, from modern to classic.\n\nFeatures:\nPremium Materials: Made from high-quality ceramic, glass, or metal for durability and timeless beauty.\nUnique Designs: Available in a range of shapes and textures, from sleek and minimalist to bold and artistic.\nVersatile Use: Ideal for fresh flowers, dried arrangements, or as standalone decorative pieces.\nMultiple Sizes: Choose from various sizes to suit tabletops, shelves, or floor displays.\nEasy to Clean: Smooth surfaces make cleaning and maintenance simple and hassle-free.\n\nAdd a sophisticated touch to your home with our stunning vases, perfect for enhancing your interior décor or making a stylish gift.",
+        "category": "vases and plant pots",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 51,
+        "name": "Modern Minimalist",
+        "price": 49.99,
+        "image": "../../public/gallery/vase3.jpeg",
+        "description": "Elevate the aesthetic of your home with our exquisite vases, designed to add a touch of elegance and charm to any space. Crafted from premium materials, these vases are perfect for showcasing fresh flowers, dried arrangements, or standing alone as a statement piece.\n\nWith a variety of shapes, sizes, and finishes, our vases complement any décor style, from modern to classic.\n\nFeatures:\nPremium Materials: Made from high-quality ceramic, glass, or metal for durability and timeless beauty.\nUnique Designs: Available in a range of shapes and textures, from sleek and minimalist to bold and artistic.\nVersatile Use: Ideal for fresh flowers, dried arrangements, or as standalone decorative pieces.\nMultiple Sizes: Choose from various sizes to suit tabletops, shelves, or floor displays.\nEasy to Clean: Smooth surfaces make cleaning and maintenance simple and hassle-free.\n\nAdd a sophisticated touch to your home with our stunning vases, perfect for enhancing your interior décor or making a stylish gift.",
+        "category": "vases and plant pots",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 52,
+        "name": "Vintage Grace",
+        "price": 29.99,
+        "image": "../../public/gallery/vase4.jpeg",
+        "description": "Elevate the aesthetic of your home with our exquisite vases, designed to add a touch of elegance and charm to any space. Crafted from premium materials, these vases are perfect for showcasing fresh flowers, dried arrangements, or standing alone as a statement piece.\n\nWith a variety of shapes, sizes, and finishes, our vases complement any décor style, from modern to classic.\n\nFeatures:\nPremium Materials: Made from high-quality ceramic, glass, or metal for durability and timeless beauty.\nUnique Designs: Available in a range of shapes and textures, from sleek and minimalist to bold and artistic.\nVersatile Use: Ideal for fresh flowers, dried arrangements, or as standalone decorative pieces.\nMultiple Sizes: Choose from various sizes to suit tabletops, shelves, or floor displays.\nEasy to Clean: Smooth surfaces make cleaning and maintenance simple and hassle-free.\n\nAdd a sophisticated touch to your home with our stunning vases, perfect for enhancing your interior décor or making a stylish gift.",
+        "category": "vases and plant pots",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 53,
+        "name": "Artistic Flair",
+        "price": 39.99,
+        "image": "../../public/gallery/vase5.jpeg",
+        "description": "Elevate the aesthetic of your home with our exquisite vases, designed to add a touch of elegance and charm to any space. Crafted from premium materials, these vases are perfect for showcasing fresh flowers, dried arrangements, or standing alone as a statement piece.\n\nWith a variety of shapes, sizes, and finishes, our vases complement any décor style, from modern to classic.\n\nFeatures:\nPremium Materials: Made from high-quality ceramic, glass, or metal for durability and timeless beauty.\nUnique Designs: Available in a range of shapes and textures, from sleek and minimalist to bold and artistic.\nVersatile Use: Ideal for fresh flowers, dried arrangements, or as standalone decorative pieces.\nMultiple Sizes: Choose from various sizes to suit tabletops, shelves, or floor displays.\nEasy to Clean: Smooth surfaces make cleaning and maintenance simple and hassle-free.\n\nAdd a sophisticated touch to your home with our stunning vases, perfect for enhancing your interior décor or making a stylish gift.",
+        "category": "vases and plant pots",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 54,
+        "name": "Coastal Breeze",
+        "price": 49.99,
+        "image": "../../public/gallery/vase6.jpeg",
+        "description": "Elevate the aesthetic of your home with our exquisite vases, designed to add a touch of elegance and charm to any space. Crafted from premium materials, these vases are perfect for showcasing fresh flowers, dried arrangements, or standing alone as a statement piece.\n\nWith a variety of shapes, sizes, and finishes, our vases complement any décor style, from modern to classic.\n\nFeatures:\nPremium Materials: Made from high-quality ceramic, glass, or metal for durability and timeless beauty.\nUnique Designs: Available in a range of shapes and textures, from sleek and minimalist to bold and artistic.\nVersatile Use: Ideal for fresh flowers, dried arrangements, or as standalone decorative pieces.\nMultiple Sizes: Choose from various sizes to suit tabletops, shelves, or floor displays.\nEasy to Clean: Smooth surfaces make cleaning and maintenance simple and hassle-free.\n\nAdd a sophisticated touch to your home with our stunning vases, perfect for enhancing your interior décor or making a stylish gift.",
+        "category": "vases and plant pots",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 55,
+        "name": "Geometric Wonder",
+        "price": 29.99,
+        "image": "../../public/gallery/vase7.jpeg",
+        "description": "Elevate the aesthetic of your home with our exquisite vases, designed to add a touch of elegance and charm to any space. Crafted from premium materials, these vases are perfect for showcasing fresh flowers, dried arrangements, or standing alone as a statement piece.\n\nWith a variety of shapes, sizes, and finishes, our vases complement any décor style, from modern to classic.\n\nFeatures:\nPremium Materials: Made from high-quality ceramic, glass, or metal for durability and timeless beauty.\nUnique Designs: Available in a range of shapes and textures, from sleek and minimalist to bold and artistic.\nVersatile Use: Ideal for fresh flowers, dried arrangements, or as standalone decorative pieces.\nMultiple Sizes: Choose from various sizes to suit tabletops, shelves, or floor displays.\nEasy to Clean: Smooth surfaces make cleaning and maintenance simple and hassle-free.\n\nAdd a sophisticated touch to your home with our stunning vases, perfect for enhancing your interior décor or making a stylish gift.",
+        "category": "vases and plant pots",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 56,
+        "name": "Nature’s Touch",
+        "price": 39.99,
+        "image": "../../public/gallery/vase8.jpg",
+        "description": "Elevate the aesthetic of your home with our exquisite vases, designed to add a touch of elegance and charm to any space. Crafted from premium materials, these vases are perfect for showcasing fresh flowers, dried arrangements, or standing alone as a statement piece.\n\nWith a variety of shapes, sizes, and finishes, our vases complement any décor style, from modern to classic.\n\nFeatures:\nPremium Materials: Made from high-quality ceramic, glass, or metal for durability and timeless beauty.\nUnique Designs: Available in a range of shapes and textures, from sleek and minimalist to bold and artistic.\nVersatile Use: Ideal for fresh flowers, dried arrangements, or as standalone decorative pieces.\nMultiple Sizes: Choose from various sizes to suit tabletops, shelves, or floor displays.\nEasy to Clean: Smooth surfaces make cleaning and maintenance simple and hassle-free.\n\nAdd a sophisticated touch to your home with our stunning vases, perfect for enhancing your interior décor or making a stylish gift.",
+        "category": "vases and plant pots",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 57,
+        "name": "Bohemian Dream",
+        "price": 49.99,
+        "image": "../../public/gallery/vase9.jpeg",
+        "description": "Elevate the aesthetic of your home with our exquisite vases, designed to add a touch of elegance and charm to any space. Crafted from premium materials, these vases are perfect for showcasing fresh flowers, dried arrangements, or standing alone as a statement piece.\n\nWith a variety of shapes, sizes, and finishes, our vases complement any décor style, from modern to classic.\n\nFeatures:\nPremium Materials: Made from high-quality ceramic, glass, or metal for durability and timeless beauty.\nUnique Designs: Available in a range of shapes and textures, from sleek and minimalist to bold and artistic.\nVersatile Use: Ideal for fresh flowers, dried arrangements, or as standalone decorative pieces.\nMultiple Sizes: Choose from various sizes to suit tabletops, shelves, or floor displays.\nEasy to Clean: Smooth surfaces make cleaning and maintenance simple and hassle-free.\n\nAdd a sophisticated touch to your home with our stunning vases, perfect for enhancing your interior décor or making a stylish gift.",
+        "category": "vases and plant pots",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 58,
+        "name": "Luxe Crystal",
+        "price": 29.99,
+        "image": "../../public/gallery/vase10.jpeg",
+        "description": "Elevate the aesthetic of your home with our exquisite vases, designed to add a touch of elegance and charm to any space. Crafted from premium materials, these vases are perfect for showcasing fresh flowers, dried arrangements, or standing alone as a statement piece.\n\nWith a variety of shapes, sizes, and finishes, our vases complement any décor style, from modern to classic.\n\nFeatures:\nPremium Materials: Made from high-quality ceramic, glass, or metal for durability and timeless beauty.\nUnique Designs: Available in a range of shapes and textures, from sleek and minimalist to bold and artistic.\nVersatile Use: Ideal for fresh flowers, dried arrangements, or as standalone decorative pieces.\nMultiple Sizes: Choose from various sizes to suit tabletops, shelves, or floor displays.\nEasy to Clean: Smooth surfaces make cleaning and maintenance simple and hassle-free.\n\nAdd a sophisticated touch to your home with our stunning vases, perfect for enhancing your interior décor or making a stylish gift.",
+        "category": "vases and plant pots",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 59,
+        "name": "Earthy Terra Cotta",
+        "price": 39.99,
+        "image": "../../public/gallery/vase11.jpeg",
+        "description": "Elevate the aesthetic of your home with our exquisite vases, designed to add a touch of elegance and charm to any space. Crafted from premium materials, these vases are perfect for showcasing fresh flowers, dried arrangements, or standing alone as a statement piece.\n\nWith a variety of shapes, sizes, and finishes, our vases complement any décor style, from modern to classic.\n\nFeatures:\nPremium Materials: Made from high-quality ceramic, glass, or metal for durability and timeless beauty.\nUnique Designs: Available in a range of shapes and textures, from sleek and minimalist to bold and artistic.\nVersatile Use: Ideal for fresh flowers, dried arrangements, or as standalone decorative pieces.\nMultiple Sizes: Choose from various sizes to suit tabletops, shelves, or floor displays.\nEasy to Clean: Smooth surfaces make cleaning and maintenance simple and hassle-free.\n\nAdd a sophisticated touch to your home with our stunning vases, perfect for enhancing your interior décor or making a stylish gift.",
+        "category": "vases and plant pots",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    },
+    {
+        "id": 60,
+        "name": "Whimsical Whirl",
+        "price": 49.99,
+        "image": "../../public/gallery/vase12.jpeg",
+        "description": "Elevate the aesthetic of your home with our exquisite vases, designed to add a touch of elegance and charm to any space. Crafted from premium materials, these vases are perfect for showcasing fresh flowers, dried arrangements, or standing alone as a statement piece.\n\nWith a variety of shapes, sizes, and finishes, our vases complement any décor style, from modern to classic.\n\nFeatures:\nPremium Materials: Made from high-quality ceramic, glass, or metal for durability and timeless beauty.\nUnique Designs: Available in a range of shapes and textures, from sleek and minimalist to bold and artistic.\nVersatile Use: Ideal for fresh flowers, dried arrangements, or as standalone decorative pieces.\nMultiple Sizes: Choose from various sizes to suit tabletops, shelves, or floor displays.\nEasy to Clean: Smooth surfaces make cleaning and maintenance simple and hassle-free.\n\nAdd a sophisticated touch to your home with our stunning vases, perfect for enhancing your interior décor or making a stylish gift.",
+        "category": "vases and plant pots",
+        "review":
+            [
+                {
+                    "name": "John Doe",
+                    "review": "Great product, very satisfied!",
+                    "rating": 5
+                },
+                {
+                    "name": "Jane Smith",
+                    "review": "Decent quality, could be better.",
+                    "rating": 3
+                },
+                {
+                    "name": "Emily Johnson",
+                    "review": "Amazing! Exceeded my expectations.",
+                    "rating": 5
+                },
+                {
+                    "name": "Michael Brown",
+                    "review": "Not worth the price.",
+                    "rating": 2
+                },
+                {
+                    "name": "Sarah Davis",
+                    "review": "Good value for money, highly recommend.",
+                    "rating": 4
+                },
+                {
+                    "name": "David Wilson",
+                    "review": "Shipping was delayed, but product is nice.",
+                    "rating": 4
+                },
+                {
+                    "name": "Sophia Martinez",
+                    "review": "Loved it! Will buy again.",
+                    "rating": 5
+                },
+                {
+                    "name": "James Anderson",
+                    "review": "Just okay, nothing special.",
+                    "rating": 3
+                },
+                {
+                    "name": "Olivia Lee",
+                    "review": "Excellent service and quality!",
+                    "rating": 5
+                },
+                {
+                    "name": "Liam Harris",
+                    "review": "Poor packaging, but the product is good.",
+                    "rating": 4
+                }
+            ]
+    }
+]

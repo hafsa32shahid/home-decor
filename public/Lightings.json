@@ -1,0 +1,394 @@
+[
+    {
+        "id": 1,
+        "name": "Lumina",
+        "price": 29.99,
+        "image": "../../public/gallery/od1.jpeg",
+        "description": "Glass,Metals",
+        "category": "outdoor lamps"
+    },
+    {
+        "id": 2,
+        "name": "Luxe",
+        "price": 39.99,
+        "image": "../../public/gallery/od2.jpeg",
+        "description": "Glass,Metals",
+        "category": "outdoor lamps"
+    },
+    {
+        "id": 3,
+        "name": "Glow",
+        "price": 49.99,
+        "image": "../../public/gallery/od3.jpeg",
+        "description": "Glass,Metals",
+        "category": "outdoor lamps"
+    },
+    {
+        "id": 4,
+        "name": "Beam",
+        "price": 29.99,
+        "image": "../../public/gallery/od4.jpeg",
+        "description": "Glass,Metals",
+        "category": "outdoor lamps"
+    },
+    {
+        "id": 5,
+        "name": "Pulse",
+        "price": 39.99,
+        "image": "../../public/gallery/od5.jpeg",
+        "description": "Glass,Metals",
+        "category": "outdoor lamps"
+    },
+    {
+        "id": 6,
+        "name": "Lantern",
+        "price": 49.99,
+        "image": "../../public/gallery/od6.jpeg",
+        "description": "Glass,Metals",
+        "category": "outdoor lamps"
+    },
+    {
+        "id": 7,
+        "name": "Ember",
+        "price": 29.99,
+        "image": "../../public/gallery/od7.jpeg",
+        "description": "Glass,Metals",
+        "category": "outdoor lamps"
+    },
+    {
+        "id": 8,
+        "name": "Candlelight",
+        "price": 39.99,
+        "image": "../../public/gallery/od8.jpeg",
+        "description": "Glass,Metals",
+        "category": "outdoor lamps"
+    },
+    {
+        "id": 9,
+        "name": "Lumi",
+        "price": 49.99,
+        "image": "../../public/gallery/od9.jpeg",
+        "description": "Glass,Metals",
+        "category": "outdoor lamps"
+    },
+    {
+        "id": 10,
+        "name": "Flicker",
+        "price": 29.99,
+        "image": "../../public/gallery/od10.jpeg",
+        "description": "Glass,Metals",
+        "category": "outdoor lamps"
+    },
+    {
+        "id": 11,
+        "name": "Willow",
+        "price": 39.99,
+        "image": "../../public/gallery/od11.jpeg",
+        "description": "Glass,Metals",
+        "category": "outdoor lamps"
+    },
+    {
+        "id": 12,
+        "name": "Oaky",
+        "price": 49.99,
+        "image": "../../public/gallery/od12.jpeg",
+        "description": "Glass,Metals",
+        "category": "outdoor lamps"
+    },
+   
+        {
+            "id": 1,
+            "name": "Celesta",
+            "price": 29.99,
+            "image": "../../public/gallery/cl1.jpeg",
+            "description": "Metals,Glass.",
+            "category": "ceiling lights"
+        },
+        {
+            "id": 2,
+            "name": "Skyline",
+            "price": 39.99,
+            "image": "../../public/gallery/cl2.jpeg",
+            "description": "Metals,Glass.",
+            "category": "ceiling lights"
+        },
+        {
+            "id": 3,
+            "name": "Chandeliar",
+            "price": 49.99,
+            "image": "../../public/gallery/cl3.jpeg",
+            "description": "Metals,Glass.",
+            "category": "ceiling lights"
+        },
+        {
+            "id": 4,
+            "name": "Regency",
+            "price": 29.99,
+            "image": "../../public/gallery/cl4.jpeg",
+            "description": "Metals,Glass.",
+            "category": "ceiling lights"
+        },
+        {
+            "id": 5,
+            "name": "Product 2",
+            "price": 39.99,
+            "image": "../../public/gallery/cl5.jpeg",
+            "description": "Metals,Glass.",
+            "category": "ceiling lights"
+        },
+        {
+            "id": 6,
+            "name": "Product 3",
+            "price": 49.99,
+            "image": "../../public/gallery/cl6.jpeg",
+            "description": "Metals,Glass.",
+            "category": "ceiling lights"
+        },
+        {
+            "id": 7,
+            "name": "Zenith",
+            "price": 29.99,
+            "image": "../../public/gallery/cl7.jpeg",
+            "description": "Metals,Glass.",
+            "category": "ceiling lights"
+        },
+        {
+            "id": 8,
+            "name": "Steller",
+            "price": 39.99,
+            "image": "../../public/gallery/cl8.jpeg",
+            "description": "Metals,Glass.",
+            "category": "ceiling lights"
+        },
+        {
+            "id": 9,
+            "name": "Crown",
+            "price": 49.99,
+            "image": "../../public/gallery/cl9.jpeg",
+            "description": "Metals,Glass.",
+            "category": "ceiling lights"
+        },
+        {
+            "id": 10,
+            "name": "Retro glow",
+            "price": 29.99,
+            "image": "../../public/gallery/cl0.jpeg",
+            "description": "Metals,Glass.",
+            "category": "ceiling lights"
+        },
+        {
+            "id": 11,
+            "name": "Grandeur",
+            "price": 39.99,
+            "image": "../../public/gallery/cl11.jpeg",
+            "description": "Metals,Glass.",
+            "category": "ceiling lights"
+        },
+        {
+            "id": 12,
+            "name": "Dramatica",
+            "price": 49.99,
+            "image": "../../public/gallery/cl12.jpeg",
+            "description": "Metals,Glass.",
+            "category": "ceiling lights"
+        },
+       
+            {
+                "id": 1,
+                "name": "Rox light",
+                "price": 29.99,
+                "image": "../../public/gallery/wl1.jpeg",
+                "description": "Glass,Metals.",
+                "category": "wall lights"
+            },
+            {
+                "id": 2,
+                "name": "Spot",
+                "price": 39.99,
+                "image": "../../public/gallery/wl2.jpeg",
+                "description": "Glass,Metals.",
+                "category": "wall lights"
+            },
+            {
+                "id": 3,
+                "name": "Dot",
+                "price": 49.99,
+                "image": "../../public/gallery/wl3.jpeg",
+                "description": "Glass,Metals.",
+                "category": "wall lights"
+            },
+            {
+                "id": 4,
+                "name": "Vine",
+                "price": 29.99,
+                "image": "../../public/gallery/wl4.jpeg",
+                "description": "Glass,Metals.",
+                "category": "wall lights"
+            },
+            {
+                "id": 5,
+                "name": "Olive",
+                "price": 39.99,
+                "image": "../../public/gallery/wl5.jpeg",
+                "description": "Glass,Metals.",
+                "category": "wall lights"
+            },
+            {
+                "id": 6,
+                "name": "Bloom",
+                "price": 49.99,
+                "image": "../../public/gallery/wl6.jpeg",
+                "description": "Glass,Metals.",
+                "category": "wall lights"
+            },
+            {
+                "id": 7,
+                "name": "Canyon",
+                "price": 29.99,
+                "image": "../../public/gallery/wl7.jpeg",
+                "description": "Glass,Metals.",
+                "category": "wall lights"
+            },
+            {
+                "id": 8,
+                "name": "Cov",
+                "price": 39.99,
+                "image": "../../public/gallery/wl8.jpeg",
+                "description": "Glass,Metals.",
+                "category": "wall lights"
+            },
+            {
+                "id": 9,
+                "name": "Bay",
+                "price": 49.99,
+                "image": "../../public/gallery/wl9.jpeg",
+                "description": "Glass,Metals.",
+                "category": "wall lights"
+            },
+            {
+                "id": 10,
+                "name": "Summit",
+                "price": 29.99,
+                "image": "../../public/gallery/wl10.jpeg",
+                "description": "Glass,Metals.",
+                "category": "wall lights"
+            },
+            {
+                "id": 11,
+                "name": "Leaf",
+                "price": 39.99,
+                "image": "../../public/gallery/wl11.jpeg",
+                "description": "Glass,Metals.",
+                "category": "wall lights"
+            },
+            {
+                "id": 12,
+                "name": "Nova",
+                "price": 49.99,
+                "image": "../../public/gallery/wl12.jpeg",
+                "description": "Glass,Metals.",
+                "category": "wall lights"
+            },
+          
+                {
+                    "id": 1,
+                    "name": "Aurora Floor Lamp",
+                    "price": 29.99,
+                    "image": "../../public/gallery/fl1.jpeg", 
+                    "description": "Glass, Metals.",
+                    "category": "Floor Lamp"
+                },
+                {
+                    "id": 2,
+                    "name": "Eclipse Floor Lamp",
+                    "price": 39.99,
+                    "image": "../../public/gallery/fl2.jpeg", 
+                    "description": "Glass, Metals.",
+                    "category": "Floor Lamp"
+                },
+                {
+                    "id": 3,
+                    "name": "Zenith Floor Lamp",
+                    "price": 49.99,
+                    "image": "../../public/gallery/fl3.jpeg", 
+                    "description": "Glass, Metals.",
+                    "category": "Floor Lamp"
+                },
+                {
+                    "id": 4,
+                    "name": "Horizon Floor Lamp",
+                    "price": 29.99,
+                    "image": "../../public/gallery/fl4.jpeg", 
+                    "description": "Glass, Metals.",
+                    "category": "Floor Lamp"
+                },
+                {
+                    "id": 5,
+                    "name": "Serenity Floor Lamp",
+                    "price": 39.99,
+                    "image": "../../public/gallery/fl5.jpeg", 
+                    "description": "Glass, Metals.",
+                    "category": "Floor Lamp"
+                },
+                {
+                    "id": 6,
+                    "name": "Radiance Floor Lamp",
+                    "price": 49.99,
+                    "image": "../../public/gallery/fl6.jpeg", 
+                    "description": "Glass, Metals.",
+                    "category": "Floor Lamp"
+                },
+                {
+                    "id": 7,
+                    "name": "Tranquil Floor Lamp",
+                    "price": 29.99,
+                    "image": "../../public/gallery/fl7.jpeg", 
+                    "description": "Glass, Metals.",
+                    "category": "Floor Lamp"
+                },
+                {
+                    "id": 8,
+                    "name": "Lumina Floor Lamp",
+                    "price": 39.99,
+                    "image": "../../public/gallery/fl8.jpeg", 
+                    "description": "Glass, Metals.",
+                    "category": "Floor Lamp"
+                },
+                {
+                    "id": 9,
+                    "name": "Glimmer Floor Lamp",
+                    "price": 49.99,
+                    "image": "../../public/gallery/fl9.jpeg", 
+                    "description": "Glass, Metals.",
+                    "category": "Floor Lamp"
+                },
+                {
+                    "id": 10,
+                    "name": "Illumina Floor Lamp",
+                    "price": 29.99,
+                    "image": "../../public/gallery/fl10.jpeg", 
+                    "description": "Glass, Metals.",
+                    "category": "Floor Lamp"
+                },
+                {
+                    "id": 11,
+                    "name": "Elysium Floor Lamp",
+                    "price": 39.99,
+                    "image": "../../public/gallery/fl11.jpeg", 
+                    "description": "Glass, Metals.",
+                    "category": "Floor Lamp"
+                },
+                {
+                    "id": 12,
+                    "name": "Mystique Floor Lamp",
+                    "price": 49.99,
+                    "image": "../../public/gallery/fl12.jpeg", 
+                    "description": "Glass, Metals.",
+                    "category": "Floor Lamp"
+                }
+           
+            
+        
+    
+]
+

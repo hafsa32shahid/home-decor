@@ -1,0 +1,2751 @@
+[
+    {
+        "id": 1,
+        "name": "Lumina Vanity",
+        "price": 29.99,
+        "image": "../../public/gallery/vanity1.jpeg",
+        "description": "Discover our exquisite collection of vanities and cabinets, designed to elevate your space with both style and functionality. Each piece combines elegant design with practical storage solutions, making them perfect for bathrooms, bedrooms, and beyond. Crafted from high-quality materials, our vanities feature sleek finishes and innovative features to meet your everyday needs. Whether you prefer a modern aesthetic or classic charm, our selection offers something for every taste. ",
+        "category": "Vanities and Cabinets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+       
+    },
+    {
+        "id": 2,
+        "name": "Luxe Vanity",
+        "price": 39.99,
+        "image": "../../public/gallery/vanity1.jpeg",
+        "description": "Discover our exquisite collection of vanities and cabinets, designed to elevate your space with both style and functionality. Each piece combines elegant design with practical storage solutions, making them perfect for bathrooms, bedrooms, and beyond. Crafted from high-quality materials, our vanities feature sleek finishes and innovative features to meet your everyday needs. Whether you prefer a modern aesthetic or classic charm, our selection offers something for every taste. ",
+        "category": "Vanities and Cabinets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Glow Vanity",
+        "price": 49.99,
+        "image": "../../public/gallery/vanity2.jpeg",
+        "description": "Discover our exquisite collection of vanities and cabinets, designed to elevate your space with both style and functionality. Each piece combines elegant design with practical storage solutions, making them perfect for bathrooms, bedrooms, and beyond. Crafted from high-quality materials, our vanities feature sleek finishes and innovative features to meet your everyday needs. Whether you prefer a modern aesthetic or classic charm, our selection offers something for every taste. ",
+        "category": "Vanities and Cabinets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Beam Vanity",
+        "price": 29.99,
+        "image": "../../public/gallery/vanity3.jpeg",
+        "description": "Discover our exquisite collection of vanities and cabinets, designed to elevate your space with both style and functionality. Each piece combines elegant design with practical storage solutions, making them perfect for bathrooms, bedrooms, and beyond. Crafted from high-quality materials, our vanities feature sleek finishes and innovative features to meet your everyday needs. Whether you prefer a modern aesthetic or classic charm, our selection offers something for every taste. ",
+        "category": "Vanities and Cabinets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+       
+    },
+    {
+        "id": 5,
+        "name": "Pulse Vanity",
+        "price": 39.99,
+        "image": "../../public/gallery/vanity4.jpeg",
+        "description": "Discover our exquisite collection of vanities and cabinets, designed to elevate your space with both style and functionality. Each piece combines elegant design with practical storage solutions, making them perfect for bathrooms, bedrooms, and beyond. Crafted from high-quality materials, our vanities feature sleek finishes and innovative features to meet your everyday needs. Whether you prefer a modern aesthetic or classic charm, our selection offers something for every taste. ",
+        "category": "Vanities and Cabinets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+        
+    },
+    {
+        "id": 6,
+        "name": "Lantern Vanity",
+        "price": 49.99,
+        "image": "../../public/gallery/vanity5.jpeg",
+        "description": "Discover our exquisite collection of vanities and cabinets, designed to elevate your space with both style and functionality. Each piece combines elegant design with practical storage solutions, making them perfect for bathrooms, bedrooms, and beyond. Crafted from high-quality materials, our vanities feature sleek finishes and innovative features to meet your everyday needs. Whether you prefer a modern aesthetic or classic charm, our selection offers something for every taste. ",
+        "category": "Vanities and Cabinets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+       
+    },
+    {
+        "id": 7,
+        "name": "Ember Vanity",
+        "price": 29.99,
+        "image": "../../public/gallery/vanity6.jpeg",
+        "description": "Discover our exquisite collection of vanities and cabinets, designed to elevate your space with both style and functionality. Each piece combines elegant design with practical storage solutions, making them perfect for bathrooms, bedrooms, and beyond. Crafted from high-quality materials, our vanities feature sleek finishes and innovative features to meet your everyday needs. Whether you prefer a modern aesthetic or classic charm, our selection offers something for every taste. ",
+        "category": "Vanities and Cabinets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Candlelight Vanity",
+        "price": 39.99,
+        "image": "../../public/gallery/vanity7.jpg",
+        "description": "Discover our exquisite collection of vanities and cabinets, designed to elevate your space with both style and functionality. Each piece combines elegant design with practical storage solutions, making them perfect for bathrooms, bedrooms, and beyond. Crafted from high-quality materials, our vanities feature sleek finishes and innovative features to meet your everyday needs. Whether you prefer a modern aesthetic or classic charm, our selection offers something for every taste. ",
+        "category": "Vanities and Cabinets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Lumi Vanity",
+        "price": 49.99,
+        "image": "../../public/gallery/vanity2.jpeg",
+        "description": "Discover our exquisite collection of vanities and cabinets, designed to elevate your space with both style and functionality. Each piece combines elegant design with practical storage solutions, making them perfect for bathrooms, bedrooms, and beyond. Crafted from high-quality materials, our vanities feature sleek finishes and innovative features to meet your everyday needs. Whether you prefer a modern aesthetic or classic charm, our selection offers something for every taste. ",
+        "category": "Vanities and Cabinets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Flicker Vanity",
+        "price": 29.99,
+        "image": "../../public/gallery/vanity9.jpg",
+        "description": "Discover our exquisite collection of vanities and cabinets, designed to elevate your space with both style and functionality. Each piece combines elegant design with practical storage solutions, making them perfect for bathrooms, bedrooms, and beyond. Crafted from high-quality materials, our vanities feature sleek finishes and innovative features to meet your everyday needs. Whether you prefer a modern aesthetic or classic charm, our selection offers something for every taste. ",
+        "category": "Vanities and Cabinets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Willow Vanity",
+        "price": 39.99,
+        "image": "../../public/gallery/vanity10.jpeg",
+        "description": "Discover our exquisite collection of vanities and cabinets, designed to elevate your space with both style and functionality. Each piece combines elegant design with practical storage solutions, making them perfect for bathrooms, bedrooms, and beyond. Crafted from high-quality materials, our vanities feature sleek finishes and innovative features to meet your everyday needs. Whether you prefer a modern aesthetic or classic charm, our selection offers something for every taste. ",
+        "category": "Vanities and Cabinets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Oaky Vanity",
+        "price": 49.99,
+        "image": "../../public/gallery/vanity12.jpeg",
+        "description": "Discover our exquisite collection of vanities and cabinets, designed to elevate your space with both style and functionality. Each piece combines elegant design with practical storage solutions, making them perfect for bathrooms, bedrooms, and beyond. Crafted from high-quality materials, our vanities feature sleek finishes and innovative features to meet your everyday needs. Whether you prefer a modern aesthetic or classic charm, our selection offers something for every taste. ",
+        "category": "Vanities and Cabinets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Celesta Shower",
+        "price": 29.99,
+        "image": "../../public/gallery/Shower11.jpg",
+        "description": "Revitalize your daily routine with our premium collection of showers. Designed for both style and performance, our showers offer a refreshing experience with powerful water flow and contemporary aesthetics. Available in a variety of styles and finishes, from minimalist modern to bold statement pieces, these showers are built to last, using high-quality materials. Whether you’re looking for a luxurious rain shower or a space-saving solution, our showers enhance both the look and functionality of any bathroom.",
+        "category": "Showers and Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Skyline Shower",
+        "price": 39.99,
+        "image": "../../public/gallery/Shower12.jpeg",
+       "description": "Revitalize your daily routine with our premium collection of showers. Designed for both style and performance, our showers offer a refreshing experience with powerful water flow and contemporary aesthetics. Available in a variety of styles and finishes, from minimalist modern to bold statement pieces, these showers are built to last, using high-quality materials. Whether you’re looking for a luxurious rain shower or a space-saving solution, our showers enhance both the look and functionality of any bathroom.",
+        "category": "Showers and Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Chandelier Shower",
+        "price": 49.99,
+        "image": "../../public/gallery/Shower6.jpeg",
+        "description": "Revitalize your daily routine with our premium collection of showers. Designed for both style and performance, our showers offer a refreshing experience with powerful water flow and contemporary aesthetics. Available in a variety of styles and finishes, from minimalist modern to bold statement pieces, these showers are built to last, using high-quality materials. Whether you’re looking for a luxurious rain shower or a space-saving solution, our showers enhance both the look and functionality of any bathroom.",
+        "category": "Showers and Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Regency Shower",
+        "price": 29.99,
+        "image": "../../public/gallery/Shower1.jpeg",
+        "description": "Revitalize your daily routine with our premium collection of showers. Designed for both style and performance, our showers offer a refreshing experience with powerful water flow and contemporary aesthetics. Available in a variety of styles and finishes, from minimalist modern to bold statement pieces, these showers are built to last, using high-quality materials. Whether you’re looking for a luxurious rain shower or a space-saving solution, our showers enhance both the look and functionality of any bathroom.",
+        "category": "Showers and Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Product 2 Shower",
+        "price": 39.99,
+        "image": "../../public/gallery/Shower2.jpg",
+       "description": "Revitalize your daily routine with our premium collection of showers. Designed for both style and performance, our showers offer a refreshing experience with powerful water flow and contemporary aesthetics. Available in a variety of styles and finishes, from minimalist modern to bold statement pieces, these showers are built to last, using high-quality materials. Whether you’re looking for a luxurious rain shower or a space-saving solution, our showers enhance both the look and functionality of any bathroom.",
+        "category": "Showers and Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Product 3 Shower",
+        "price": 49.99,
+        "image": "../../public/gallery/Shower4.jpeg",
+        "description": "Revitalize your daily routine with our premium collection of showers. Designed for both style and performance, our showers offer a refreshing experience with powerful water flow and contemporary aesthetics. Available in a variety of styles and finishes, from minimalist modern to bold statement pieces, these showers are built to last, using high-quality materials. Whether you’re looking for a luxurious rain shower or a space-saving solution, our showers enhance both the look and functionality of any bathroom.",
+        "category": "Showers and Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Zenith Shower",
+        "price": 29.99,
+        "image": "../../public/gallery/Shower5.jpeg",
+       "description": "Revitalize your daily routine with our premium collection of showers. Designed for both style and performance, our showers offer a refreshing experience with powerful water flow and contemporary aesthetics. Available in a variety of styles and finishes, from minimalist modern to bold statement pieces, these showers are built to last, using high-quality materials. Whether you’re looking for a luxurious rain shower or a space-saving solution, our showers enhance both the look and functionality of any bathroom.",
+        "category": "Showers and Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Steller Shower",
+        "price": 39.99,
+        "image": "../../public/gallery/Shower7.jpeg",
+       "description": "Revitalize your daily routine with our premium collection of showers. Designed for both style and performance, our showers offer a refreshing experience with powerful water flow and contemporary aesthetics. Available in a variety of styles and finishes, from minimalist modern to bold statement pieces, these showers are built to last, using high-quality materials. Whether you’re looking for a luxurious rain shower or a space-saving solution, our showers enhance both the look and functionality of any bathroom.",
+        "category": "Showers and Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Crown Shower",
+        "price": 49.99,
+        "image": "../../public/gallery/Shower9.jpeg",
+       "description": "Revitalize your daily routine with our premium collection of showers. Designed for both style and performance, our showers offer a refreshing experience with powerful water flow and contemporary aesthetics. Available in a variety of styles and finishes, from minimalist modern to bold statement pieces, these showers are built to last, using high-quality materials. Whether you’re looking for a luxurious rain shower or a space-saving solution, our showers enhance both the look and functionality of any bathroom.",
+        "category": "Showers and Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Retro Glow Shower",
+        "price": 29.99,
+        "image": "../../public/gallery/Shower10.jpeg",
+        "description": "Revitalize your daily routine with our premium collection of showers. Designed for both style and performance, our showers offer a refreshing experience with powerful water flow and contemporary aesthetics. Available in a variety of styles and finishes, from minimalist modern to bold statement pieces, these showers are built to last, using high-quality materials. Whether you’re looking for a luxurious rain shower or a space-saving solution, our showers enhance both the look and functionality of any bathroom.",
+        "category": "Showers and Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Grandeur Shower",
+        "price": 39.99,
+        "image": "../../public/gallery/Shower11.jpg",
+       "description": "Revitalize your daily routine with our premium collection of showers. Designed for both style and performance, our showers offer a refreshing experience with powerful water flow and contemporary aesthetics. Available in a variety of styles and finishes, from minimalist modern to bold statement pieces, these showers are built to last, using high-quality materials. Whether you’re looking for a luxurious rain shower or a space-saving solution, our showers enhance both the look and functionality of any bathroom.",
+        "category": "Showers and Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Dramatica Shower",
+        "price": 49.99,
+        "image": "../../public/gallery/Shower12.jpeg",
+        "description": "Revitalize your daily routine with our premium collection of showers. Designed for both style and performance, our showers offer a refreshing experience with powerful water flow and contemporary aesthetics. Available in a variety of styles and finishes, from minimalist modern to bold statement pieces, these showers are built to last, using high-quality materials. Whether you’re looking for a luxurious rain shower or a space-saving solution, our showers enhance both the look and functionality of any bathroom.",
+        "category": "Showers and Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Rox Light Toilet",
+        "price": 29.99,
+        "image": "../../public/gallery/toilet1.jpg",
+      "description": "Upgrade your bathroom with our range of stylish and efficient toilets, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Toilets and Bidets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Spot Toilet",
+        "price": 39.99,
+        "image": "../../public/gallery/toilet2.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient toilets, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Toilets and Bidets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Dot Toilet",
+        "price": 49.99,
+        "image": "../../public/gallery/toilet3.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient toilets, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Toilets and Bidets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Vine Toilet",
+        "price": 29.99,
+        "image": "../../public/gallery/toilet4.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient toilets, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Toilets and Bidets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Olive Toilet",
+        "price": 39.99,
+        "image": "../../public/gallery/toilet5.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient toilets, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Toilets and Bidets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Bloom Toilet",
+        "price": 49.99,
+        "image": "../../public/gallery/toilet6.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient toilets, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Toilets and Bidets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Canyon Toilet",
+        "price": 29.99,
+        "image": "../../public/gallery/toilet7.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient toilets, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Toilets and Bidets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Cov Toilet",
+        "price": 39.99,
+        "image": "../../public/gallery/toilet8.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient toilets, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Toilets and Bidets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Bay Toilet",
+        "price": 49.99,
+        "image": "../../public/gallery/toilet9.jpg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient toilets, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Toilets and Bidets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Pure Toilet",
+        "price": 29.99,
+        "image": "../../public/gallery/toilet10.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient toilets, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Toilets and Bidets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Vista Toilet",
+        "price": 39.99,
+        "image": "../../public/gallery/toilet11.jpg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient toilets, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Toilets and Bidets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Spectrum Toilet",
+        "price": 49.99,
+        "image": "../../public/gallery/toilet12.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient toilets, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Toilets and Bidets",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Vertex Bathtub",
+        "price": 29.99,
+        "image": "../../public/gallery/bathtub1.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient bathtubs, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Nova Bathtub",
+        "price": 39.99,
+        "image": "../../public/gallery/bathtub2.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient bathtubs, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Cascade Bathtub",
+        "price": 49.99,
+        "image": "../../public/gallery/bathtub3.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient bathtubs, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Elysium Bathtub",
+        "price": 29.99,
+        "image": "../../public/gallery/bathtub4.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient bathtubs, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Silhouette Bathtub",
+        "price": 39.99,
+        "image": "../../public/gallery/bathtub5.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient bathtubs, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Wave Bathtub",
+        "price": 49.99,
+        "image": "../../public/gallery/bathtub6.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient bathtubs, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Drift Bathtub",
+        "price": 29.99,
+        "image": "../../public/gallery/bathtub7.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient bathtubs, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Serenity Bathtub",
+        "price": 39.99,
+        "image": "../../public/gallery/bathtub8.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient bathtubs, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Refine Bathtub",
+        "price": 49.99,
+        "image": "../../public/gallery/bathtub9.jpeg",
+        "description": "Upgrade your bathroom with our range of stylish and efficient bathtubs, designed for both comfort and practicality. Our toilets feature modern designs that complement any bathroom decor while offering advanced flushing technology for optimal performance. Crafted from high-quality materials, these toilets are built to last, ensuring durability and easy maintenance. Whether you’re looking for water-saving options or sleek, minimalist designs, our collection provides the perfect blend of innovation, functionality, and elegance to meet your needs.",
+        "category": "Bathtubs",
+        "review":
+        [
+            {
+                "name": "John Doe",
+                "review": "Great product, very satisfied!",
+                "rating": 5
+            },
+            {
+                "name": "Jane Smith",
+                "review": "Decent quality, could be better.",
+                "rating": 3
+            },
+            {
+                "name": "Emily Johnson",
+                "review": "Amazing! Exceeded my expectations.",
+                "rating": 5
+            },
+            {
+                "name": "Michael Brown",
+                "review": "Not worth the price.",
+                "rating": 2
+            },
+            {
+                "name": "Sarah Davis",
+                "review": "Good value for money, highly recommend.",
+                "rating": 4
+            },
+            {
+                "name": "David Wilson",
+                "review": "Shipping was delayed, but product is nice.",
+                "rating": 4
+            },
+            {
+                "name": "Sophia Martinez",
+                "review": "Loved it! Will buy again.",
+                "rating": 5
+            },
+            {
+                "name": "James Anderson",
+                "review": "Just okay, nothing special.",
+                "rating": 3
+            },
+            {
+                "name": "Olivia Lee",
+                "review": "Excellent service and quality!",
+                "rating": 5
+            },
+            {
+                "name": "Liam Harris",
+                "review": "Poor packaging, but the product is good.",
+                "rating": 4
+            }
+        ]
+    }
+]
